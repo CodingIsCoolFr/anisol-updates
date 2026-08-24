@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.5",
-  "packageUrl": "https://github.com/RealNumNums/anisol-updates/releases/download/v0.11.5/AniSol-0.11.5-win64.zip",
-  "sha256": "cdbc4fc0855b2d446d69a580c3c2358c03d8303023c5687c89c9b12f3dec90e5",
-  "size": 87916811,
-  "releaseUrl": "https://github.com/RealNumNums/anime-solution/releases/tag/v0.11.5",
-  "notes": "Automatic updater reliability, complete Qt Windows runtime packaging, exclusive card interaction, native hover previews, and consistent Discover scrolling.",
+  "version": "0.11.6",
+  "packageUrl": "https://github.com/RealNumNums/anisol-updates/releases/download/v0.11.6/AniSol-0.11.6-win64.zip",
+  "sha256": "502cdf8c48b852b7472e4b4ae05c9c0b382bea11f64fdfc5271670a5124847c0",
+  "size": 87912789,
+  "releaseUrl": "https://github.com/RealNumNums/anime-solution/releases/tag/v0.11.6",
+  "notes": "Responsive catalog hover previews, smoother pointer input, and lower fullscreen idle rendering.",
   "requireAuthenticode": false
 }
