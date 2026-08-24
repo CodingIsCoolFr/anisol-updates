@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.1",
-  "packageUrl": "https://github.com/RealNumNums/anisol-updates/releases/download/v0.11.1/AniSol-0.11.1-win64.zip",
-  "sha256": "f9622366a0f409eb286ecc94f214079abee9958149b324c97555a348c2e259f2",
-  "size": 87643559,
-  "releaseUrl": "https://github.com/RealNumNums/anisol-updates/releases/tag/v0.11.1",
-  "notes": "A clearer consumer-style updater with one status, one automatic-updates switch, contextual actions, human-readable timing, and no technical feed URL in Settings.",
+  "version": "0.11.2",
+  "packageUrl": "https://github.com/RealNumNums/anisol-updates/releases/download/v0.11.2/AniSol-0.11.2-win64.zip",
+  "sha256": "37492624aa9c955fb410b82d98806c5a6e6f66a8ab4690f323f7ccb21402f164",
+  "size": 87643661,
+  "releaseUrl": "https://github.com/RealNumNums/anime-solution/releases/tag/v0.11.2",
+  "notes": "Branded public installer, faithful AniSol-chan release artwork, and public source release.",
   "requireAuthenticode": false
 }
