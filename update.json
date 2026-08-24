@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.20",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.20/AniSol-0.11.20-win64.zip",
-  "sha256": "96d3e8260fe56fdb9ddaf6d049226884756b50a22c644d468e8a05321483944b",
-  "size": 88126080,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.20",
-  "notes": "Replaced the older abstract peer Earth with a detailed dimensional live globe, embedded Natural Earth coastlines, kept peer marker projection private and local, capped visible globe rendering at 30 FPS, smoothed wheel navigation, and preloaded more Discover rows earlier.",
+  "version": "0.11.21",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.21/AniSol-0.11.21-win64.zip",
+  "sha256": "0c504d35fdeffb413d2d2718a16d23264186084673d6b92240ed091d3c9ddec4",
+  "size": 88130941,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.21",
+  "notes": "Automatic next episode now advances from true media completion, reuses verified packs, and retries rate-limited lookups. Adds Skip opening and persistent fullscreen Ambilight controls.",
   "requireAuthenticode": false
 }
