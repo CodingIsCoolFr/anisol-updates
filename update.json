@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.8",
-  "packageUrl": "https://github.com/RealNumNums/anisol-updates/releases/download/v0.11.8/AniSol-0.11.8-win64.zip",
-  "sha256": "e622950e4f104a615b9c54fb4f6a2ec7f0e61b30e72807e8815d5ab38185e2bb",
-  "size": 87928366,
-  "releaseUrl": "https://github.com/RealNumNums/anime-solution/releases/tag/v0.11.8",
-  "notes": "Adaptive Ambilight now follows the live anime frame around the windowed theater using a low-frequency native sampler. Fullscreen stays clean and disables ambient sampling for performance.",
+  "version": "0.11.9",
+  "packageUrl": "https://github.com/RealNumNums/anisol-updates/releases/download/v0.11.9/AniSol-0.11.9-win64.zip",
+  "sha256": "551480a4121f967aa8f1972cb8d9808b4f298306e008ce5b3cd38c54db18689c",
+  "size": 87932259,
+  "releaseUrl": "https://github.com/RealNumNums/anime-solution/releases/tag/v0.11.9",
+  "notes": "Windowed playback now uses a fully opaque ambient canvas so Home artwork and navigation never bleed through. Ambilight follows video edge colors faster and more accurately with gamma-correct analysis, adaptive smoothing, and non-blocking background sampling.",
   "requireAuthenticode": false
 }
