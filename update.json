@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.17",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.17/AniSol-0.11.17-win64.zip",
-  "sha256": "b9268075b5caa62195adf64c71103d1267b34e70f4a579d71830747c4c747e3f",
-  "size": 87973599,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.17",
-  "notes": "Fixed the Discord Get AniSol action so it opens the Anime Solution project homepage directly.",
+  "version": "0.11.18",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.18/AniSol-0.11.18-win64.zip",
+  "sha256": "b998312885e06f08e73370ede265fb0709340795e48299eab84521b9eb91d364",
+  "size": 87974230,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.18",
+  "notes": "Separated browsing from active playback so a docked Episode 3 cannot carry into a newly selected anime. New titles start at Season 1 Episode 1, while Continue Watching still restores its exact episode and timestamp.",
   "requireAuthenticode": false
 }
