@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.16",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.16/AniSol-0.11.16-win64.zip",
-  "sha256": "2e2ab605aa7467d992c38f5be6d877b4258a6de916b7e21dd54d9d34beac33f8",
-  "size": 87973554,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.16",
-  "notes": "Native Discord Rich Presence with AniSol branding, live anime artwork, exact season and episode progress, elapsed watch time, privacy controls, and event-driven reconnection.",
+  "version": "0.11.17",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.17/AniSol-0.11.17-win64.zip",
+  "sha256": "b9268075b5caa62195adf64c71103d1267b34e70f4a579d71830747c4c747e3f",
+  "size": 87973599,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.17",
+  "notes": "Fixed the Discord Get AniSol action so it opens the Anime Solution project homepage directly.",
   "requireAuthenticode": false
 }
