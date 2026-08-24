@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.13",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.13/AniSol-0.11.13-win64.zip",
-  "sha256": "6ab1d1c14c37720072237dd4783d533177e97f7c52a77509ba1574205334d918",
-  "size": 87936492,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.13",
-  "notes": "Rapid taskbar clicks now focus the single running AniSol process; atomic Windows ownership and activation retries prevent duplicate UI processes and crash loops.",
+  "version": "0.11.14",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.14/AniSol-0.11.14-win64.zip",
+  "sha256": "8b30a281e0db77b79a91ec62d5d9ae29017aef1ebc7d25447335ea66ae10dc3c",
+  "size": 87939318,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.14",
+  "notes": "Source results now survive regional provider blocks with progressive fallback and bounded timeouts. Update & restart is repaired with generated Windows version metadata and a transactional launcher that updates with AniSol.",
   "requireAuthenticode": false
 }
