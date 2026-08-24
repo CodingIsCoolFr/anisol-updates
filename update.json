@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.15",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.15/AniSol-0.11.15-win64.zip",
-  "sha256": "5c43d0a864deda4094cc042ceac2de63de85a17bc96b79161c0eedefa2ad4405",
-  "size": 87960694,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.15",
-  "notes": "Regional source diagnostics and optional source-only proxy routing. Ambiguous packs are rejected safely and the next verified episode match is tried automatically.",
+  "version": "0.11.16",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.16/AniSol-0.11.16-win64.zip",
+  "sha256": "2e2ab605aa7467d992c38f5be6d877b4258a6de916b7e21dd54d9d34beac33f8",
+  "size": 87973554,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.16",
+  "notes": "Native Discord Rich Presence with AniSol branding, live anime artwork, exact season and episode progress, elapsed watch time, privacy controls, and event-driven reconnection.",
   "requireAuthenticode": false
 }
