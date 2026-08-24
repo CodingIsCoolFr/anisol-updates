@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.10",
-  "packageUrl": "https://github.com/RealNumNums/anisol-updates/releases/download/v0.11.10/AniSol-0.11.10-win64.zip",
-  "sha256": "d6725e6b7dc596f8d2865c22fab7b00981f67f4457e029798b82ffc3e8c74188",
-  "size": 87933414,
-  "releaseUrl": "https://github.com/RealNumNums/anime-solution/releases/tag/v0.11.10",
-  "notes": "The windowed theater now has transparent corners and letterbox space so only live Ambilight surrounds the video. Continue Watching and AniList automatic Watching updates now require 15 seconds of confirmed advancing playback and cannot be triggered by browsing, media probing, resume restores, or seeks.",
+  "version": "0.11.11",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.11/AniSol-0.11.11-win64.zip",
+  "sha256": "fa43d9c027a0b53a5dfed2cdeaedfaa75e9ccc8bafeef106aef1d02788aa6bd0",
+  "size": 87933484,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.11",
+  "notes": "GitHub ownership links now use CodingIsCoolFr throughout the updater, installer, workflows, tests, badges, and documentation. The windowed theater has transparent corners and letterbox space, and Continue Watching plus AniList automatic Watching updates require 15 seconds of confirmed advancing playback.",
   "requireAuthenticode": false
 }
