@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.4",
-  "packageUrl": "https://github.com/RealNumNums/anisol-updates/releases/download/v0.11.4/AniSol-0.11.4-win64.zip",
-  "sha256": "afcfd08922a3156283ce8d02234d1b94f78ac61e2c6a7c12019b67de0d4c49a9",
-  "size": 87152672,
-  "releaseUrl": "https://github.com/RealNumNums/anime-solution/releases/tag/v0.11.4",
-  "notes": "Unified smooth scrolling on every page, restored the draggable scrollbar, eliminated per-peer buffer over-allocation, and made artwork decoding viewport-aware for much lower memory use.",
+  "version": "0.11.5",
+  "packageUrl": "https://github.com/RealNumNums/anisol-updates/releases/download/v0.11.5/AniSol-0.11.5-win64.zip",
+  "sha256": "cdbc4fc0855b2d446d69a580c3c2358c03d8303023c5687c89c9b12f3dec90e5",
+  "size": 87916811,
+  "releaseUrl": "https://github.com/RealNumNums/anime-solution/releases/tag/v0.11.5",
+  "notes": "Automatic updater reliability, complete Qt Windows runtime packaging, exclusive card interaction, native hover previews, and consistent Discover scrolling.",
   "requireAuthenticode": false
 }
