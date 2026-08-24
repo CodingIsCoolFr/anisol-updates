@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.12",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.12/AniSol-0.11.12-win64.zip",
-  "sha256": "b1070a33dbf8688b8787fe7eff8959acd484e3867fc2c9574902c37c461cf271",
-  "size": 87934886,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.12",
-  "notes": "Continue Watching now opens the exact saved season and episode and restores the saved timestamp instead of resetting to Season 1 Episode 1.",
+  "version": "0.11.13",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.13/AniSol-0.11.13-win64.zip",
+  "sha256": "6ab1d1c14c37720072237dd4783d533177e97f7c52a77509ba1574205334d918",
+  "size": 87936492,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.13",
+  "notes": "Rapid taskbar clicks now focus the single running AniSol process; atomic Windows ownership and activation retries prevent duplicate UI processes and crash loops.",
   "requireAuthenticode": false
 }
