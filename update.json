@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.11",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.11/AniSol-0.11.11-win64.zip",
-  "sha256": "fa43d9c027a0b53a5dfed2cdeaedfaa75e9ccc8bafeef106aef1d02788aa6bd0",
-  "size": 87933484,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.11",
-  "notes": "GitHub ownership links now use CodingIsCoolFr throughout the updater, installer, workflows, tests, badges, and documentation. The windowed theater has transparent corners and letterbox space, and Continue Watching plus AniList automatic Watching updates require 15 seconds of confirmed advancing playback.",
+  "version": "0.11.12",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.12/AniSol-0.11.12-win64.zip",
+  "sha256": "b1070a33dbf8688b8787fe7eff8959acd484e3867fc2c9574902c37c461cf271",
+  "size": 87934886,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.12",
+  "notes": "Continue Watching now opens the exact saved season and episode and restores the saved timestamp instead of resetting to Season 1 Episode 1.",
   "requireAuthenticode": false
 }
