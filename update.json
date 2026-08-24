@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.22",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.22/AniSol-0.11.22-win64.zip",
-  "sha256": "8fc5aa853812d6240e99830cf85c58a94c8f0068771083cd76f04f70f39e2101",
-  "size": 88140584,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.22",
-  "notes": "Smart verified opening detection, faster and more accurate Ambilight, and a reliable fast updater restart.",
+  "version": "0.11.23",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.23/AniSol-0.11.23-win64.zip",
+  "sha256": "9b2bde4e37a390f5ee43b952aadbd3e79b3c75480935eca87ec245891a36e842",
+  "size": 88142281,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.23",
+  "notes": "Faster post-update relaunch, a bounded startup splash, quieter rotating logs, and repaired subtitles that strip raw ASS tags and clear frozen cues.",
   "requireAuthenticode": false
 }
