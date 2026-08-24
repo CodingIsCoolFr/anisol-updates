@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.21",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.21/AniSol-0.11.21-win64.zip",
-  "sha256": "0c504d35fdeffb413d2d2718a16d23264186084673d6b92240ed091d3c9ddec4",
-  "size": 88130941,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.21",
-  "notes": "Automatic next episode now advances from true media completion, reuses verified packs, and retries rate-limited lookups. Adds Skip opening and persistent fullscreen Ambilight controls.",
+  "version": "0.11.22",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.22/AniSol-0.11.22-win64.zip",
+  "sha256": "8fc5aa853812d6240e99830cf85c58a94c8f0068771083cd76f04f70f39e2101",
+  "size": 88140584,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.22",
+  "notes": "Smart verified opening detection, faster and more accurate Ambilight, and a reliable fast updater restart.",
   "requireAuthenticode": false
 }
