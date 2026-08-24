@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.9",
-  "packageUrl": "https://github.com/RealNumNums/anisol-updates/releases/download/v0.11.9/AniSol-0.11.9-win64.zip",
-  "sha256": "551480a4121f967aa8f1972cb8d9808b4f298306e008ce5b3cd38c54db18689c",
-  "size": 87932259,
-  "releaseUrl": "https://github.com/RealNumNums/anime-solution/releases/tag/v0.11.9",
-  "notes": "Windowed playback now uses a fully opaque ambient canvas so Home artwork and navigation never bleed through. Ambilight follows video edge colors faster and more accurately with gamma-correct analysis, adaptive smoothing, and non-blocking background sampling.",
+  "version": "0.11.10",
+  "packageUrl": "https://github.com/RealNumNums/anisol-updates/releases/download/v0.11.10/AniSol-0.11.10-win64.zip",
+  "sha256": "d6725e6b7dc596f8d2865c22fab7b00981f67f4457e029798b82ffc3e8c74188",
+  "size": 87933414,
+  "releaseUrl": "https://github.com/RealNumNums/anime-solution/releases/tag/v0.11.10",
+  "notes": "The windowed theater now has transparent corners and letterbox space so only live Ambilight surrounds the video. Continue Watching and AniList automatic Watching updates now require 15 seconds of confirmed advancing playback and cannot be triggered by browsing, media probing, resume restores, or seeks.",
   "requireAuthenticode": false
 }
