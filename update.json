@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.23",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.23/AniSol-0.11.23-win64.zip",
-  "sha256": "9b2bde4e37a390f5ee43b952aadbd3e79b3c75480935eca87ec245891a36e842",
-  "size": 88142281,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.23",
-  "notes": "Faster post-update relaunch, a bounded startup splash, quieter rotating logs, and repaired subtitles that strip raw ASS tags and clear frozen cues.",
+  "version": "0.11.24",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.24/AniSol-0.11.24-win64.zip",
+  "sha256": "d86864eb512ec58665e1c4f0d191359f3357eb916a42a3aec186fa873f253858",
+  "size": 88145108,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.24",
+  "notes": "Secure updater handoff: AniSol now stays open until the launcher verifies the package, path, PID, and executable identity. Rejected or timed-out updates leave the app open, with regression coverage for wrong PIDs, frozen processes, health checks, and rollback.",
   "requireAuthenticode": false
 }
