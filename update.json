@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "version": "0.11.0",
+  "packageUrl": "https://github.com/RealNumNums/anisol-updates/releases/download/v0.11.0/AniSol-0.11.0-win64.zip",
+  "sha256": "1e1c2af3f47860b02d98fac9b4a19c860c18cbe5690efd491b6b4f395378cef9",
+  "size": 87643238,
+  "releaseUrl": "https://github.com/RealNumNums/anisol-updates/releases/tag/v0.11.0",
+  "notes": "Official live updater feed, verified C++ launcher, automatic checks and downloads, startup health checks, and automatic rollback.",
+  "requireAuthenticode": false
+}
