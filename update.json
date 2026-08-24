@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.6",
-  "packageUrl": "https://github.com/RealNumNums/anisol-updates/releases/download/v0.11.6/AniSol-0.11.6-win64.zip",
-  "sha256": "502cdf8c48b852b7472e4b4ae05c9c0b382bea11f64fdfc5271670a5124847c0",
-  "size": 87912789,
-  "releaseUrl": "https://github.com/RealNumNums/anime-solution/releases/tag/v0.11.6",
-  "notes": "Responsive catalog hover previews, smoother pointer input, and lower fullscreen idle rendering.",
+  "version": "0.11.7",
+  "packageUrl": "https://github.com/RealNumNums/anisol-updates/releases/download/v0.11.7/AniSol-0.11.7-win64.zip",
+  "sha256": "98aff158a7ba1d9b80e23f797b5294237e8ec4b39c4a297cef7c042edfd77383",
+  "size": 87913365,
+  "releaseUrl": "https://github.com/RealNumNums/anime-solution/releases/tag/v0.11.7",
+  "notes": "Restores the Anime Solution logo in the Windows taskbar and Alt+Tab.",
   "requireAuthenticode": false
 }
