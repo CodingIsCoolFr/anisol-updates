@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.3",
-  "packageUrl": "https://github.com/RealNumNums/anisol-updates/releases/download/v0.11.3/AniSol-0.11.3-win64.zip",
-  "sha256": "5a34eaa2d6424c6a735befb3f0dfcea1b779413d9cb4bbb77ce9649974f0d153",
-  "size": 87139419,
-  "releaseUrl": "https://github.com/RealNumNums/anime-solution/releases/tag/v0.11.3",
-  "notes": "Faster startup with readiness-gated splash handoff, persistent catalog and artwork caches, lazy page and shelf loading, lower fullscreen rendering cost, faster scrolling, and middle-click auto-scroll.",
+  "version": "0.11.4",
+  "packageUrl": "https://github.com/RealNumNums/anisol-updates/releases/download/v0.11.4/AniSol-0.11.4-win64.zip",
+  "sha256": "afcfd08922a3156283ce8d02234d1b94f78ac61e2c6a7c12019b67de0d4c49a9",
+  "size": 87152672,
+  "releaseUrl": "https://github.com/RealNumNums/anime-solution/releases/tag/v0.11.4",
+  "notes": "Unified smooth scrolling on every page, restored the draggable scrollbar, eliminated per-peer buffer over-allocation, and made artwork decoding viewport-aware for much lower memory use.",
   "requireAuthenticode": false
 }
