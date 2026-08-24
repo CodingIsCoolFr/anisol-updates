@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.14",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.14/AniSol-0.11.14-win64.zip",
-  "sha256": "8b30a281e0db77b79a91ec62d5d9ae29017aef1ebc7d25447335ea66ae10dc3c",
-  "size": 87939318,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.14",
-  "notes": "Source results now survive regional provider blocks with progressive fallback and bounded timeouts. Update & restart is repaired with generated Windows version metadata and a transactional launcher that updates with AniSol.",
+  "version": "0.11.15",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.15/AniSol-0.11.15-win64.zip",
+  "sha256": "5c43d0a864deda4094cc042ceac2de63de85a17bc96b79161c0eedefa2ad4405",
+  "size": 87960694,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.15",
+  "notes": "Regional source diagnostics and optional source-only proxy routing. Ambiguous packs are rejected safely and the next verified episode match is tried automatically.",
   "requireAuthenticode": false
 }
