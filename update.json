@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.18",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.18/AniSol-0.11.18-win64.zip",
-  "sha256": "b998312885e06f08e73370ede265fb0709340795e48299eab84521b9eb91d364",
-  "size": 87974230,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.18",
-  "notes": "Separated browsing from active playback so a docked Episode 3 cannot carry into a newly selected anime. New titles start at Season 1 Episode 1, while Continue Watching still restores its exact episode and timestamp.",
+  "version": "0.11.19",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.19/AniSol-0.11.19-win64.zip",
+  "sha256": "c9b0dc11ac2191c7c2db6733715330ef1b7c3ef477a472ccfac5ca3b6a9b9cbe",
+  "size": 87975538,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.19",
+  "notes": "Fixed Update & restart when an old build freezes during shutdown. The launcher now verifies the exact AniSol process, allows a graceful close, safely recovers a verified unresponsive instance, and preserves transactional rollback until the new build reports healthy.",
   "requireAuthenticode": false
 }
