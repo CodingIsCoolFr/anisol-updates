@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.2",
-  "packageUrl": "https://github.com/RealNumNums/anisol-updates/releases/download/v0.11.2/AniSol-0.11.2-win64.zip",
-  "sha256": "37492624aa9c955fb410b82d98806c5a6e6f66a8ab4690f323f7ccb21402f164",
-  "size": 87643661,
-  "releaseUrl": "https://github.com/RealNumNums/anime-solution/releases/tag/v0.11.2",
-  "notes": "Branded public installer, faithful AniSol-chan release artwork, and public source release.",
+  "version": "0.11.3",
+  "packageUrl": "https://github.com/RealNumNums/anisol-updates/releases/download/v0.11.3/AniSol-0.11.3-win64.zip",
+  "sha256": "5a34eaa2d6424c6a735befb3f0dfcea1b779413d9cb4bbb77ce9649974f0d153",
+  "size": 87139419,
+  "releaseUrl": "https://github.com/RealNumNums/anime-solution/releases/tag/v0.11.3",
+  "notes": "Faster startup with readiness-gated splash handoff, persistent catalog and artwork caches, lazy page and shelf loading, lower fullscreen rendering cost, faster scrolling, and middle-click auto-scroll.",
   "requireAuthenticode": false
 }
