@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.0",
-  "packageUrl": "https://github.com/RealNumNums/anisol-updates/releases/download/v0.11.0/AniSol-0.11.0-win64.zip",
-  "sha256": "1e1c2af3f47860b02d98fac9b4a19c860c18cbe5690efd491b6b4f395378cef9",
-  "size": 87643238,
-  "releaseUrl": "https://github.com/RealNumNums/anisol-updates/releases/tag/v0.11.0",
-  "notes": "Official live updater feed, verified C++ launcher, automatic checks and downloads, startup health checks, and automatic rollback.",
+  "version": "0.11.1",
+  "packageUrl": "https://github.com/RealNumNums/anisol-updates/releases/download/v0.11.1/AniSol-0.11.1-win64.zip",
+  "sha256": "f9622366a0f409eb286ecc94f214079abee9958149b324c97555a348c2e259f2",
+  "size": 87643559,
+  "releaseUrl": "https://github.com/RealNumNums/anisol-updates/releases/tag/v0.11.1",
+  "notes": "A clearer consumer-style updater with one status, one automatic-updates switch, contextual actions, human-readable timing, and no technical feed URL in Settings.",
   "requireAuthenticode": false
 }
