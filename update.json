@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.35",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.35/AniSol-0.11.35-win64.zip",
-  "sha256": "c968b72191bd21b73bc870f1f4ad16cfedb51c03200c580c4a6b3c140f7e0a94",
-  "size": 92423956,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.35",
-  "notes": "Immersive lighting now follows scene cuts on the same beat, samples more frequently on a dedicated worker, and keeps within-shot motion smooth with less playback overhead.",
+  "version": "0.11.36",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.36/AniSol-0.11.36-win64.zip",
+  "sha256": "11c1405152623d6bb5d152c3515d430bc1b47176f17dbd2d733709bdee4df25d",
+  "size": 92410155,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.36",
+  "notes": "Ambient lighting rework, subtitle stability fixes, ranking pipeline polish, and verified startup update handoff hardening.",
   "requireAuthenticode": false
 }
