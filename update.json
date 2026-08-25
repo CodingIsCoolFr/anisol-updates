@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.36",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.36/AniSol-0.11.36-win64.zip",
-  "sha256": "11c1405152623d6bb5d152c3515d430bc1b47176f17dbd2d733709bdee4df25d",
-  "size": 92410155,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.36",
-  "notes": "Ambient lighting rework, subtitle stability fixes, ranking pipeline polish, and verified startup update handoff hardening.",
+  "version": "0.11.37",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.37/AniSol-0.11.37-win64.zip",
+  "sha256": "e7a476e6fa8a980eb845ec0c7e7481b3f95b745b79c3f3d6ec8923b9a5bcef21",
+  "size": 92491680,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.37",
+  "notes": "Ground-up spatial ambient lighting with accurate edge mapping, latest-frame synchronization, dominant-palette analysis, adaptive scene strength, and a lower-overhead GPU light field.",
   "requireAuthenticode": false
 }
