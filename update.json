@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.27",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.27/AniSol-0.11.27-win64.zip",
-  "sha256": "3ee6c126a23fc6682729c78e59232e73ce38d281bb350003c84b6b42de9aed20",
-  "size": 92385609,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.27",
-  "notes": "Peer globe markers now use real offline DB-IP country lookup instead of synthetic hash coordinates. Unknown and private peers are not plotted, and all lookups remain on-device.",
+  "version": "0.11.28",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.28/AniSol-0.11.28-win64.zip",
+  "sha256": "f9f7e7f710aca83bcfb84e0a28dd765199840f57cf6c39a0d5bfa15345166b58",
+  "size": 92388375,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.28",
+  "notes": "Adaptive lighting now persists correctly. Exact episode selection and Continue Watching timestamps are preserved through Auto Select.",
   "requireAuthenticode": false
 }
