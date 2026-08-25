@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.28",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.28/AniSol-0.11.28-win64.zip",
-  "sha256": "f9f7e7f710aca83bcfb84e0a28dd765199840f57cf6c39a0d5bfa15345166b58",
-  "size": 92388375,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.28",
-  "notes": "Adaptive lighting now persists correctly. Exact episode selection and Continue Watching timestamps are preserved through Auto Select.",
+  "version": "0.11.29",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.29/AniSol-0.11.29-win64.zip",
+  "sha256": "971b01ed4d886245915bccec65c3f153349d2d7181387268729d79069c760c41",
+  "size": 92389395,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.29",
+  "notes": "Playback now defaults to a true, persistent 100% output with an exact volume readout. Player and Appearance preferences flush immediately so Adaptive lighting survives closing or restarting AniSol.",
   "requireAuthenticode": false
 }
