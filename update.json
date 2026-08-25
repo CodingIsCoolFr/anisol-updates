@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.34",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.34/AniSol-0.11.34-win64.zip",
-  "sha256": "878c9eb839407387bb56163593d2dd8b36207fce08432072165f24034e3c538d",
-  "size": 92422742,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.34",
-  "notes": "Ambient lighting now has two clear saved modes. Immersive uses independently sampled edges, corners, and center color for a spatial cinematic field; Performance keeps a lightweight four-edge effect. The player button now toggles the modes directly with an accurate label and tooltip.",
+  "version": "0.11.35",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.35/AniSol-0.11.35-win64.zip",
+  "sha256": "c968b72191bd21b73bc870f1f4ad16cfedb51c03200c580c4a6b3c140f7e0a94",
+  "size": 92423956,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.35",
+  "notes": "Immersive lighting now follows scene cuts on the same beat, samples more frequently on a dedicated worker, and keeps within-shot motion smooth with less playback overhead.",
   "requireAuthenticode": false
 }
