@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.40",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.40/AniSol-0.11.40-win64.zip",
-  "sha256": "5959fec1b0859661f8bb86bda88a0f09d1d52d9275c7479bab5f34f2f9d7c38d",
-  "size": 92491444,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.40",
-  "notes": "Removed rectangular corner artifacts by replacing overlapping ambient panels with continuous GPU-native radial light pools centered on the real video edges and corners.",
+  "version": "0.11.41",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.41/AniSol-0.11.41-win64.zip",
+  "sha256": "ec2551ae7e360bfa50ff93458f18d176981541a0cf8893cfd787be51c3bfceff",
+  "size": 92492406,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.41",
+  "notes": "Bright scenes now carry their real color across the theater instead of being crushed into gray-black, with stronger seamless edge and corner light pools and dedicated cyan-scene visual coverage.",
   "requireAuthenticode": false
 }
