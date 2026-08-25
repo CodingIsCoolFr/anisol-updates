@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.33",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.33/AniSol-0.11.33-win64.zip",
-  "sha256": "f2c0affe872191e03a1ebf327b078eddb6d979519ad7277220845b17324d763c",
-  "size": 92403244,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.33",
-  "notes": "Exact episode-aware opening skips now prefer embedded Matroska chapters and never reuse guessed season timing. Complex ASS signs are filtered, English dub starts with captions off, and adaptive lighting samples less aggressively to keep fully downloaded 10-bit HEVC playback smooth.",
+  "version": "0.11.34",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.34/AniSol-0.11.34-win64.zip",
+  "sha256": "878c9eb839407387bb56163593d2dd8b36207fce08432072165f24034e3c538d",
+  "size": 92422742,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.34",
+  "notes": "Ambient lighting now has two clear saved modes. Immersive uses independently sampled edges, corners, and center color for a spatial cinematic field; Performance keeps a lightweight four-edge effect. The player button now toggles the modes directly with an accurate label and tooltip.",
   "requireAuthenticode": false
 }
