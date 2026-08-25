@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.37",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.37/AniSol-0.11.37-win64.zip",
-  "sha256": "e7a476e6fa8a980eb845ec0c7e7481b3f95b745b79c3f3d6ec8923b9a5bcef21",
-  "size": 92491680,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.37",
-  "notes": "Ground-up spatial ambient lighting with accurate edge mapping, latest-frame synchronization, dominant-palette analysis, adaptive scene strength, and a lower-overhead GPU light field.",
+  "version": "0.11.38",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.38/AniSol-0.11.38-win64.zip",
+  "sha256": "75107dbc311f811390d77ac639b467a2b6690e8cea4bd65eea1127a579753019",
+  "size": 92466700,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.38",
+  "notes": "Faster episode startup with strictly ordered opening pieces and a moving 12 MiB urgent lane, plus a restored cohesive four-edge ambient glow with faithful colors and redesigned Beautiful and Performance choices.",
   "requireAuthenticode": false
 }
