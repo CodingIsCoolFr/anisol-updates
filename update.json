@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.41",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.41/AniSol-0.11.41-win64.zip",
-  "sha256": "ec2551ae7e360bfa50ff93458f18d176981541a0cf8893cfd787be51c3bfceff",
-  "size": 92492406,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.41",
-  "notes": "Bright scenes now carry their real color across the theater instead of being crushed into gray-black, with stronger seamless edge and corner light pools and dedicated cyan-scene visual coverage.",
+  "version": "0.11.42",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.42/AniSol-0.11.42-win64.zip",
+  "sha256": "4042f246659c4b972299e3c1e3c0925eae308d126476475794452e61832b364b",
+  "size": 92507332,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.42",
+  "notes": "Smarter Skip Opening: exact chapters and episode timing first, guarded community matching, nearby-episode season consensus for new releases, malformed-marker protection, a clearer on-player control, and the S shortcut.",
   "requireAuthenticode": false
 }
