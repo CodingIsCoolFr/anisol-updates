@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.30",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.30/AniSol-0.11.30-win64.zip",
-  "sha256": "98dcd0ac09b6a20c4ac10a5cdd20b4e1bd166aa83ceb71053ebefd06a3a48808",
-  "size": 92406762,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.30",
-  "notes": "Smart explainable source ranking now balances seed health, exact episode coverage, audio, quality, size, trust, freshness, and provider confirmation, with Most seeders and Fastest start views. Skip Opening now handles current AniSkip no-result responses, reuses nearby verified timings, and learns missing season timings once. Fullscreen playback now repairs rare unintended window-state demotions.",
+  "version": "0.11.31",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.31/AniSol-0.11.31-win64.zip",
+  "sha256": "3f65562a9bb3ef6f1233908296e51b83edd046d75ba8fbf2d0118c4467aee6a9",
+  "size": 92401041,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.31",
+  "notes": "Best Overall now uses broad swarm-health bands after strict episode and audio matching, then balances preferred quality, size, exact file coverage, format, freshness, trust, and provider confirmation. The misleading alternate ordering selector was removed, and production regression coverage prevents a 12-seeder 81.8 GiB curated pack from outranking a comparable 50-seeder 4.3 GiB source.",
   "requireAuthenticode": false
 }
