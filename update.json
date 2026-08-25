@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.31",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.31/AniSol-0.11.31-win64.zip",
-  "sha256": "3f65562a9bb3ef6f1233908296e51b83edd046d75ba8fbf2d0118c4467aee6a9",
-  "size": 92401041,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.31",
-  "notes": "Best Overall now uses broad swarm-health bands after strict episode and audio matching, then balances preferred quality, size, exact file coverage, format, freshness, trust, and provider confirmation. The misleading alternate ordering selector was removed, and production regression coverage prevents a 12-seeder 81.8 GiB curated pack from outranking a comparable 50-seeder 4.3 GiB source.",
+  "version": "0.11.32",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.32/AniSol-0.11.32-win64.zip",
+  "sha256": "ec16ee1c70c49f0ffd8a058510fa59280ed3e2cf10ca42212a56ce0775040c41",
+  "size": 91993111,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.32",
+  "notes": "Live swarm validation now measures reachable peers, transfer rate, contiguous opening progress, stalls, and startup ETA, then advances through up to two additional strictly verified Best Overall HD/audio matches when a provider scrape is stale.",
   "requireAuthenticode": false
 }
