@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.38",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.38/AniSol-0.11.38-win64.zip",
-  "sha256": "75107dbc311f811390d77ac639b467a2b6690e8cea4bd65eea1127a579753019",
-  "size": 92466700,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.38",
-  "notes": "Faster episode startup with strictly ordered opening pieces and a moving 12 MiB urgent lane, plus a restored cohesive four-edge ambient glow with faithful colors and redesigned Beautiful and Performance choices.",
+  "version": "0.11.39",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.39/AniSol-0.11.39-win64.zip",
+  "sha256": "d3792574b46b125550e6da2318157ae9a91c8e8709a49fc21a47335ae9c8c685",
+  "size": 92487011,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.39",
+  "notes": "Beautiful lighting now originates at the real video boundary, blends nearby edge and corner colors with continuous falloff, and follows cuts in perceptual color space with flash-safe luminance response at 25 Hz.",
   "requireAuthenticode": false
 }
