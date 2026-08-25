@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.24",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.24/AniSol-0.11.24-win64.zip",
-  "sha256": "d86864eb512ec58665e1c4f0d191359f3357eb916a42a3aec186fa873f253858",
-  "size": 88145108,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.24",
-  "notes": "Secure updater handoff: AniSol now stays open until the launcher verifies the package, path, PID, and executable identity. Rejected or timed-out updates leave the app open, with regression coverage for wrong PIDs, frozen processes, health checks, and rollback.",
+  "version": "0.11.25",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.25/AniSol-0.11.25-win64.zip",
+  "sha256": "4ae9617da459a64510aefffa6358f8e41f7fb1b24e72babaf3ec9a7ad21dab2d",
+  "size": 88168396,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.25",
+  "notes": "Subtitle timing now follows decoder cue events and renders video directly to eliminate subtitle-related stutter. Adds saved Balanced and Adaptive ambient-lighting modes with intensity control, plus multi-season Skip Opening and safe nearby-episode timing fallback.",
   "requireAuthenticode": false
 }
