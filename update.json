@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.43",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.43/AniSol-0.11.43-win64.zip",
-  "sha256": "ab9ac90110cacc770a9797b1dede0102f64932fe53f0280e4bd266b7c41ea0c7",
-  "size": 92507434,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.43",
-  "notes": "Skip Opening timing refinement: inferred and community controls now appear at the resolved opening marker instead of up to ten seconds early over episode dialogue.",
+  "version": "0.11.44",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.44/AniSol-0.11.44-win64.zip",
+  "sha256": "0a3428c3cf99984c03f386610b4f39b68d789470dccbc9b23986ebbbc24b0e65",
+  "size": 92509922,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.44",
+  "notes": "Exact Intro chapters are now recognized, variable cold-open season guesses are rejected, and the smaller Skip Opening control sits above the timeline without covering time or media controls.",
   "requireAuthenticode": false
 }
