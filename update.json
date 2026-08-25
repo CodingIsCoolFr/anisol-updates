@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.26",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.26/AniSol-0.11.26-win64.zip",
-  "sha256": "098b7812d53527f196bcf4e5b4d6f7e06cd191d9d41c5c23d8863e2ff786d425",
-  "size": 88177380,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.26",
-  "notes": "AniList cards now display the website's exact synced episode progress, including a 2/12-style label and proportional progress bar across Home, Your List, and card previews.",
+  "version": "0.11.27",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.27/AniSol-0.11.27-win64.zip",
+  "sha256": "3ee6c126a23fc6682729c78e59232e73ce38d281bb350003c84b6b42de9aed20",
+  "size": 92385609,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.27",
+  "notes": "Peer globe markers now use real offline DB-IP country lookup instead of synthetic hash coordinates. Unknown and private peers are not plotted, and all lookups remain on-device.",
   "requireAuthenticode": false
 }
