@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.39",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.39/AniSol-0.11.39-win64.zip",
-  "sha256": "d3792574b46b125550e6da2318157ae9a91c8e8709a49fc21a47335ae9c8c685",
-  "size": 92487011,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.39",
-  "notes": "Beautiful lighting now originates at the real video boundary, blends nearby edge and corner colors with continuous falloff, and follows cuts in perceptual color space with flash-safe luminance response at 25 Hz.",
+  "version": "0.11.40",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.40/AniSol-0.11.40-win64.zip",
+  "sha256": "5959fec1b0859661f8bb86bda88a0f09d1d52d9275c7479bab5f34f2f9d7c38d",
+  "size": 92491444,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.40",
+  "notes": "Removed rectangular corner artifacts by replacing overlapping ambient panels with continuous GPU-native radial light pools centered on the real video edges and corners.",
   "requireAuthenticode": false
 }
