@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.49",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.49/AniSol-0.11.49-win64.zip",
-  "sha256": "3b08c97bee7e79d1d0b7688d8c46b20075d510e4ee240c9bef1ec758b77aedb4",
-  "size": 92620685,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.49",
-  "notes": "Fixes large AniList library memory retention with virtualized rows and released artwork, removes duplicate subtitles, and adds live Relations, Threads, Themes, Recommendations, and an Airing Calendar.",
+  "version": "0.11.50",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.50/AniSol-0.11.50-win64.zip",
+  "sha256": "5751adaf7bb74cb2a55f8cc697be1733df31d8008197e33e474bb1462a03beb2",
+  "size": 92632123,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.50",
+  "notes": "Keeps the Airing Calendar available through AniList rate limits with persistent month caching, deduplicated refreshes, paced pagination, and Retry-After-aware recovery.",
   "requireAuthenticode": false
 }
