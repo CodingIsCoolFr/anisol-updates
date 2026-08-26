@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.50",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.50/AniSol-0.11.50-win64.zip",
-  "sha256": "5751adaf7bb74cb2a55f8cc697be1733df31d8008197e33e474bb1462a03beb2",
-  "size": 92632123,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.50",
-  "notes": "Keeps the Airing Calendar available through AniList rate limits with persistent month caching, deduplicated refreshes, paced pagination, and Retry-After-aware recovery.",
+  "version": "0.11.51",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.51/AniSol-0.11.51-win64.zip",
+  "sha256": "496817c5c0ec141063db9fe0cc84c8e4f77cc973dd0e8e0a2403b939a832c224",
+  "size": 92642140,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.51",
+  "notes": "Restores the Airing Calendar with a stable 7-by-6 month grid, immediate schedule refreshes, and clear loading or empty states.",
   "requireAuthenticode": false
 }
