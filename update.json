@@ -1,10 +1,10 @@
 ﻿{
     "schema":  1,
-    "version":  "0.11.54",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.54/AniSol-0.11.54-win64.zip",
-    "sha256":  "f17b3b3eddca27505ee50e2399a9af262bf789eaa46cc5392e4a159020029fd7",
-    "size":  93359422,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.54",
-    "notes":  "Fixes the AniSol-chan support speech-bubble pointer and makes Home hero artwork swaps preloaded, atomic, and free of stale background or logo flashes.",
+    "version":  "0.11.55",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.55/AniSol-0.11.55-win64.zip",
+    "sha256":  "1d739a4972742ff24af04160c7fc037ca8b43ffb51d20df904f5c2bb25f0622f",
+    "size":  93381520,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.55",
+    "notes":  "Claude-guided visual polish: a separated AniSol-chan thought bubble, decoded double-buffer Home artwork with synchronized title reveals, and a rebuilt Beautiful ambient mode using a localized twelve-point luminous frame field. Performance mode remains lightweight.",
     "requireAuthenticode":  false
 }
