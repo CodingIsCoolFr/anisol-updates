@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.45",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.45/AniSol-0.11.45-win64.zip",
-  "sha256": "0c90ac6f791046ec67da23858c14585aecc5d0a1dddacefaddb83bfa54a0988e",
-  "size": 92519520,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.45",
-  "notes": "Smarter skip-opening detection now prioritizes exact file chapters, validates AniSkip against the episode cut, follows AnimeThemes opening versions, requires three matching neighboring episodes for inference, and avoids repeated metadata requests while a torrent grows.",
+  "version": "0.11.46",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.46/AniSol-0.11.46-win64.zip",
+  "sha256": "3613dd2c60362375f9ffb0548bc849083cae00852752c39ac759fb341830a4a5",
+  "size": 90735643,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.46",
+  "notes": "Prevents automatic updates from closing a visible or Discord-shared AniSol window. Verified updates still download in the background, but automatic installation now waits until playback has stopped and AniSol is minimized; Update & restart remains available on demand.",
   "requireAuthenticode": false
 }

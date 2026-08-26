@@ -7,4 +7,4 @@ AniSol itself is a native C++/Qt application. `update.json` is not application c
 - [Latest release](https://github.com/CodingIsCoolFr/anisol-updates/releases/latest)
 - [Live update manifest](https://raw.githubusercontent.com/CodingIsCoolFr/anisol-updates/main/update.json)
 
-Packages are checked against their exact byte size and SHA-256 digest before the external C++ launcher can install them. Installation remains an explicit user action and failed launches roll back automatically.
+Packages are checked against their exact byte size and SHA-256 digest before the external C++ launcher can install them. AniSol can install automatically only after playback has stopped and its window is minimized; users can also choose **Update & restart** directly. Failed launches roll back automatically.
