@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.48",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.48/AniSol-0.11.48-win64.zip",
-  "sha256": "6731e954cc13dd1f6878cf9825af3f0c59b772cb7240fd532c4150c905f3ccd0",
-  "size": 92523446,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.48",
-  "notes": "Crisp Home artwork: AniSol no longer stretches portrait covers into full-window backdrops, rotates only genuine landscape banners, and prefers extra-large AniList cover art.",
+  "version": "0.11.49",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.49/AniSol-0.11.49-win64.zip",
+  "sha256": "3b08c97bee7e79d1d0b7688d8c46b20075d510e4ee240c9bef1ec758b77aedb4",
+  "size": 92620685,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.49",
+  "notes": "Fixes large AniList library memory retention with virtualized rows and released artwork, removes duplicate subtitles, and adds live Relations, Threads, Themes, Recommendations, and an Airing Calendar.",
   "requireAuthenticode": false
 }
