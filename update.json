@@ -1,10 +1,10 @@
 ﻿{
     "schema":  1,
-    "version":  "0.11.53",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.53/AniSol-0.11.53-win64.zip",
-    "sha256":  "ce6a5bf2e77302033935fade9fdedfcd28c78e586bac13c5429411ad53aa63e1",
-    "size":  93357607,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.53",
-    "notes":  "Refines the AniSol-chan Support popout into a properly fitted speech bubble and removes stale Home artwork ghosting during hero changes.",
+    "version":  "0.11.54",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.54/AniSol-0.11.54-win64.zip",
+    "sha256":  "f17b3b3eddca27505ee50e2399a9af262bf789eaa46cc5392e4a159020029fd7",
+    "size":  93359422,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.54",
+    "notes":  "Fixes the AniSol-chan support speech-bubble pointer and makes Home hero artwork swaps preloaded, atomic, and free of stale background or logo flashes.",
     "requireAuthenticode":  false
 }
