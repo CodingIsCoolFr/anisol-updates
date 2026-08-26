@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.47",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.47/AniSol-0.11.47-win64.zip",
-  "sha256": "f477b913538d82d7cd697498d423aac44c5cf8e5e333161be504cab5c8bb4713",
-  "size": 92522255,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.47",
-  "notes": "Fresh AniList Home: eleven independent shelves now balance current-season, Airing Now, trending, all-time, top-rated, ten-year Classics, and genres in one efficient C++ request, with background refresh and offline cache.",
+  "version": "0.11.48",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.48/AniSol-0.11.48-win64.zip",
+  "sha256": "6731e954cc13dd1f6878cf9825af3f0c59b772cb7240fd532c4150c905f3ccd0",
+  "size": 92523446,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.48",
+  "notes": "Crisp Home artwork: AniSol no longer stretches portrait covers into full-window backdrops, rotates only genuine landscape banners, and prefers extra-large AniList cover art.",
   "requireAuthenticode": false
 }
