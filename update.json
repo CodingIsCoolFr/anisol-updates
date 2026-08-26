@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.46",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.46/AniSol-0.11.46-win64.zip",
-  "sha256": "3613dd2c60362375f9ffb0548bc849083cae00852752c39ac759fb341830a4a5",
-  "size": 90735643,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.46",
-  "notes": "Prevents automatic updates from closing a visible or Discord-shared AniSol window. Verified updates still download in the background, but automatic installation now waits until playback has stopped and AniSol is minimized; Update & restart remains available on demand.",
+  "version": "0.11.47",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.47/AniSol-0.11.47-win64.zip",
+  "sha256": "f477b913538d82d7cd697498d423aac44c5cf8e5e333161be504cab5c8bb4713",
+  "size": 92522255,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.47",
+  "notes": "Fresh AniList Home: eleven independent shelves now balance current-season, Airing Now, trending, all-time, top-rated, ten-year Classics, and genres in one efficient C++ request, with background refresh and offline cache.",
   "requireAuthenticode": false
 }
