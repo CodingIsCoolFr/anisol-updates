@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.44",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.44/AniSol-0.11.44-win64.zip",
-  "sha256": "0a3428c3cf99984c03f386610b4f39b68d789470dccbc9b23986ebbbc24b0e65",
-  "size": 92509922,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.44",
-  "notes": "Exact Intro chapters are now recognized, variable cold-open season guesses are rejected, and the smaller Skip Opening control sits above the timeline without covering time or media controls.",
+  "version": "0.11.45",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.45/AniSol-0.11.45-win64.zip",
+  "sha256": "0c90ac6f791046ec67da23858c14585aecc5d0a1dddacefaddb83bfa54a0988e",
+  "size": 92519520,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.45",
+  "notes": "Smarter skip-opening detection now prioritizes exact file chapters, validates AniSkip against the episode cut, follows AnimeThemes opening versions, requires three matching neighboring episodes for inference, and avoids repeated metadata requests while a torrent grows.",
   "requireAuthenticode": false
 }
