@@ -1,10 +1,10 @@
 ﻿{
     "schema":  1,
-    "version":  "0.11.59",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.59/AniSol-0.11.59-win64.zip",
-    "sha256":  "d908097ddc1a975841e0e69fbf3a291cf21965ab7c4697c7aff96702fa69b2c8",
-    "size":  95208257,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.59",
-    "notes":  "Makes Continue Watching survive shutdowns and interrupted exits with verified local checkpoints, restores the correct episode and timestamp reliably, and extends Home artwork into the page background.",
+    "version":  "0.11.60",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.60/AniSol-0.11.60-win64.zip",
+    "sha256":  "91d8e6a519d774946dd7bdd68b091029c3229172e001255684158acc9d8e335b",
+    "size":  95220947,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.60",
+    "notes":  "Continue Watching now keeps multiple anime with independent season, episode, artwork, duration, and exact resume timestamp across restarts and interrupted exits.",
     "requireAuthenticode":  false
 }
