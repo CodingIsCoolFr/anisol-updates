@@ -1,10 +1,10 @@
 ﻿{
     "schema":  1,
-    "version":  "0.11.55",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.55/AniSol-0.11.55-win64.zip",
-    "sha256":  "1d739a4972742ff24af04160c7fc037ca8b43ffb51d20df904f5c2bb25f0622f",
-    "size":  93381520,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.55",
-    "notes":  "Claude-guided visual polish: a separated AniSol-chan thought bubble, decoded double-buffer Home artwork with synchronized title reveals, and a rebuilt Beautiful ambient mode using a localized twelve-point luminous frame field. Performance mode remains lightweight.",
+    "version":  "0.11.56",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.56/AniSol-0.11.56-win64.zip",
+    "sha256":  "029e636e4b86eff5d0823779cdb66f89cfb9c8f05992ab8f17939b58b9ba271e",
+    "size":  93414340,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.56",
+    "notes":  "Long-running anime now show their full available episode range; Episodes has fast 50-item pages and direct jump; Relations is a readable franchise map; ambient lighting now has Aura, Edge Flow, and Cinema Bloom with continuous frame-synced updates.",
     "requireAuthenticode":  false
 }
