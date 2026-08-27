@@ -1,10 +1,10 @@
 {
-    "schema":  1,
-    "version":  "0.11.61",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.61/AniSol-0.11.61-win64.zip",
-    "sha256":  "c6a56a1da8d830d1e38612ab474245ea3936ca1e18ad8a56106639728e3d8e8b",
-    "size":  93476492,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.61",
-    "notes":  "Adds native anime hover previews, a clear Watch Next route for franchise relations, reusable Skip Opening prompts after backward seeks, and atomic episode/timestamp checkpoints when closing or switching playback.",
-    "requireAuthenticode":  false
+  "schema": 1,
+  "version": "0.11.62",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.62/AniSol-0.11.62-win64.zip",
+  "sha256": "305f20da67855d241c2207dcfb89a506bbb0f1bbd057a2fd79ab3b2c08379569",
+  "size": 95263877,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.62",
+  "notes": "Fixes anime-card hover previews repeatedly disappearing and reopening by transferring pointer ownership cleanly between the source card and preview panel.",
+  "requireAuthenticode": false
 }
