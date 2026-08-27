@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.64",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.64/AniSol-0.11.64-win64.zip",
-  "sha256": "1fa627a1cd326b9c100f4f8812b52ac251c2b1331f2cc8a036bfdf5fced43d3c",
-  "size": 95413200,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.64",
-  "notes": "Instant stable anime-card previews now open after a 30 ms hover, play validated privacy-enhanced trailer metadata through native Windows WebView2, and fall back safely to opening clips or artwork. This release also includes the latest calendar, artwork, skip-time, torrent, and resume reliability fixes.",
+  "version": "0.11.65",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.65/AniSol-0.11.65-win64.zip",
+  "sha256": "01034ac3c189441784d45c62e4297930119b91b004f0285f50eb5eaa7afe1e3a",
+  "size": 95419302,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.65",
+  "notes": "Prewarms hover trailers and artwork, hides WebView2 until its first painted frame, and makes Home artwork swaps atomic.",
   "requireAuthenticode": false
 }
