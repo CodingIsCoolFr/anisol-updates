@@ -1,10 +1,10 @@
-﻿{
-    "schema":  1,
-    "version":  "0.11.60",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.60/AniSol-0.11.60-win64.zip",
-    "sha256":  "91d8e6a519d774946dd7bdd68b091029c3229172e001255684158acc9d8e335b",
-    "size":  95220947,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.60",
-    "notes":  "Continue Watching now keeps multiple anime with independent season, episode, artwork, duration, and exact resume timestamp across restarts and interrupted exits.",
-    "requireAuthenticode":  false
+{
+  "schema": 1,
+  "version": "0.11.60",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.60/AniSol-0.11.60-win64.zip",
+  "sha256": "91d8e6a519d774946dd7bdd68b091029c3229172e001255684158acc9d8e335b",
+  "size": 95220947,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.60",
+  "notes": "Continue Watching now keeps multiple anime with independent season, episode, artwork, duration, and exact resume timestamp across restarts and interrupted exits.",
+  "requireAuthenticode": false
 }
