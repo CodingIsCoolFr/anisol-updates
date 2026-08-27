@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.66",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.66/AniSol-0.11.66-win64.zip",
-  "sha256": "ad4c7d75ad47729e94ddcf4e017acc992aeaa5c72c0fafc14bab909b5a93843d",
-  "size": 95421916,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.66",
-  "notes": "Makes trailer previews reliable across repeated card-to-card handoffs by transferring ownership immediately and giving each anime a fresh hidden WebView surface.",
+  "version": "0.11.67",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.67/AniSol-0.11.67-win64.zip",
+  "sha256": "a50907697320558091befdd9411610be08c974e94cf1d89e3580c9b5da4110b4",
+  "size": 93638877,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.67",
+  "notes": "Preview playback now uses one persistent native WebView2 shell. Switching anime replaces only the isolated player frame, keeps the incoming artwork visible until confirmed playback, rejects stale callbacks from the previous title, and automatically falls back when a trailer cannot start.",
   "requireAuthenticode": false
 }
