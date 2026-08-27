@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.65",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.65/AniSol-0.11.65-win64.zip",
-  "sha256": "01034ac3c189441784d45c62e4297930119b91b004f0285f50eb5eaa7afe1e3a",
-  "size": 95419302,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.65",
-  "notes": "Prewarms hover trailers and artwork, hides WebView2 until its first painted frame, and makes Home artwork swaps atomic.",
+  "version": "0.11.66",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.66/AniSol-0.11.66-win64.zip",
+  "sha256": "ad4c7d75ad47729e94ddcf4e017acc992aeaa5c72c0fafc14bab909b5a93843d",
+  "size": 95421916,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.66",
+  "notes": "Makes trailer previews reliable across repeated card-to-card handoffs by transferring ownership immediately and giving each anime a fresh hidden WebView surface.",
   "requireAuthenticode": false
 }
