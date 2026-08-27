@@ -1,10 +1,10 @@
 ﻿{
     "schema":  1,
-    "version":  "0.11.56",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.56/AniSol-0.11.56-win64.zip",
-    "sha256":  "029e636e4b86eff5d0823779cdb66f89cfb9c8f05992ab8f17939b58b9ba271e",
-    "size":  93414340,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.56",
-    "notes":  "Long-running anime now show their full available episode range; Episodes has fast 50-item pages and direct jump; Relations is a readable franchise map; ambient lighting now has Aura, Edge Flow, and Cinema Bloom with continuous frame-synced updates.",
+    "version":  "0.11.57",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.57/AniSol-0.11.57-win64.zip",
+    "sha256":  "75b4334c03a612011687eb57dc083c7d1c96da2078f01770e918615765e5bd3b",
+    "size":  95199152,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.57",
+    "notes":  "Adds AniSol-chan's live verified Stripe support checkout with a suggested USD $5 contribution, while keeping all payment processing and credentials outside the app.",
     "requireAuthenticode":  false
 }
