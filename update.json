@@ -1,10 +1,10 @@
 ﻿{
     "schema":  1,
-    "version":  "0.11.58",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.58/AniSol-0.11.58-win64.zip",
-    "sha256":  "0669093eb0700455ee856ecf77f50ed31c71cf36e28972a3b8101d3f26c18062",
-    "size":  95200257,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.58",
-    "notes":  "Restores every missing anime-detail label and makes Episodes, Relations, Threads, Themes, and Recommendations reliably accessible by mouse, keyboard, and tooltip.",
+    "version":  "0.11.59",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.59/AniSol-0.11.59-win64.zip",
+    "sha256":  "d908097ddc1a975841e0e69fbf3a291cf21965ab7c4697c7aff96702fa69b2c8",
+    "size":  95208257,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anime-solution/releases/tag/v0.11.59",
+    "notes":  "Makes Continue Watching survive shutdowns and interrupted exits with verified local checkpoints, restores the correct episode and timestamp reliably, and extends Home artwork into the page background.",
     "requireAuthenticode":  false
 }
