@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.63",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.63/AniSol-0.11.63-win64.zip",
-  "sha256": "690c1557f4213bae5cb699fc68fd5d073ab89eaf99830fdb624759493e6675c4",
-  "size": 95270056,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.63",
-  "notes": "Hover previews now open immediately, prefetch motion metadata on pointer entry, reuse a seven-day persistent preview cache, and request a smaller AnimeThemes response.",
+  "version": "0.11.64",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.64/AniSol-0.11.64-win64.zip",
+  "sha256": "1fa627a1cd326b9c100f4f8812b52ac251c2b1331f2cc8a036bfdf5fced43d3c",
+  "size": 95413200,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.64",
+  "notes": "Instant stable anime-card previews now open after a 30 ms hover, play validated privacy-enhanced trailer metadata through native Windows WebView2, and fall back safely to opening clips or artwork. This release also includes the latest calendar, artwork, skip-time, torrent, and resume reliability fixes.",
   "requireAuthenticode": false
 }
