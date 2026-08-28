@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.71",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.71/AniSol-0.11.71-win64.zip",
-  "sha256": "513ae0054b876d7dbe48fd7ffb95cd216a1c2b5fe7bb4e2567d497315f7b37b0",
-  "size": 95455518,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.71",
-  "notes": "Hover previews now dismiss immediately when their card moves during page or shelf scrolling, with scene-space fallback protection and no slowdown to deliberate hover.",
+  "version": "0.11.72",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.72/AniSol-0.11.72-win64.zip",
+  "sha256": "bfcffc1548a2308fea0ebf6c8837c509613f4746347de4e806f693bb1a2649d9",
+  "size": 95456910,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.72",
+  "notes": "Hover previews reach motion faster with low-latency native probing, an earlier warm fallback race, and preview-sized source selection.",
   "requireAuthenticode": false
 }
