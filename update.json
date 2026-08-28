@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.67",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.67/AniSol-0.11.67-win64.zip",
-  "sha256": "a50907697320558091befdd9411610be08c974e94cf1d89e3580c9b5da4110b4",
-  "size": 93638877,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.67",
-  "notes": "Preview playback now uses one persistent native WebView2 shell. Switching anime replaces only the isolated player frame, keeps the incoming artwork visible until confirmed playback, rejects stale callbacks from the previous title, and automatically falls back when a trailer cannot start.",
+  "version": "0.11.68",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.68/AniSol-0.11.68-win64.zip",
+  "sha256": "6ff203700a6cf953d09dc45822b404ca25fcc11e0ddab6a47b0f32f196bbe38c",
+  "size": 95441882,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.68",
+  "notes": "Hover previews now prefer direct AnimeThemes media, retain two warm native decoders and two warm YouTube players, race fallbacks without blocking the card, cache bounded lookups across shelf traversal, and keep artwork visible until the incoming preview is actually playing.",
   "requireAuthenticode": false
 }
