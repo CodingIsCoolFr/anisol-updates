@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.70",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.70/AniSol-0.11.70-win64.zip",
-  "sha256": "39253bb2c5edf0c904b11ddd044512bf2904133a8bd8689f986ecc930c99fcd5",
-  "size": 95452371,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.70",
-  "notes": "Stops Continue Watching posters from flickering black while docked playback is active. Live time and progress still update without recreating the card, and decoded artwork stays visible through legitimate reloads.",
+  "version": "0.11.71",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.71/AniSol-0.11.71-win64.zip",
+  "sha256": "513ae0054b876d7dbe48fd7ffb95cd216a1c2b5fe7bb4e2567d497315f7b37b0",
+  "size": 95455518,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.71",
+  "notes": "Hover previews now dismiss immediately when their card moves during page or shelf scrolling, with scene-space fallback protection and no slowdown to deliberate hover.",
   "requireAuthenticode": false
 }
