@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.68",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.68/AniSol-0.11.68-win64.zip",
-  "sha256": "6ff203700a6cf953d09dc45822b404ca25fcc11e0ddab6a47b0f32f196bbe38c",
-  "size": 95441882,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.68",
-  "notes": "Hover previews now prefer direct AnimeThemes media, retain two warm native decoders and two warm YouTube players, race fallbacks without blocking the card, cache bounded lookups across shelf traversal, and keep artwork visible until the incoming preview is actually playing.",
+  "version": "0.11.69",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.69/AniSol-0.11.69-win64.zip",
+  "sha256": "1d800700d6a573411ac8c71c1270c65596d3090a343f4f2c3ee46314ff878c6a",
+  "size": 95451675,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.69",
+  "notes": "Continue Watching integrity update: prevents zero-time decoder states and stale earlier episodes from overwriting saved progress, preserves each anime independently, and repairs obvious zero-time episode regressions from AniList progress.",
   "requireAuthenticode": false
 }
