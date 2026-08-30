@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.11.72",
-  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.72/AniSol-0.11.72-win64.zip",
-  "sha256": "bfcffc1548a2308fea0ebf6c8837c509613f4746347de4e806f693bb1a2649d9",
-  "size": 95456910,
-  "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.72",
-  "notes": "Hover previews reach motion faster with low-latency native probing, an earlier warm fallback race, and preview-sized source selection.",
+  "version": "0.11.73",
+  "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.73/AniSol-0.11.73-win64.zip",
+  "sha256": "0ca12b65425dc5ac1af1ed9e08a17c8253ed7b1b9a6a3bf5d53889b3d1725538",
+  "size": 95457405,
+  "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.73",
+  "notes": "Discord Rich Presence now uses AniSol's public Discord-hosted application icon, restoring the permanent badge on uncached desktop, mobile, and web clients.",
   "requireAuthenticode": false
 }
