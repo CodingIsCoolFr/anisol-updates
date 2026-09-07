@@ -1,10 +1,10 @@
 ﻿{
     "schema":  1,
-    "version":  "0.11.76",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.76/AniSol-0.11.76-win64.zip",
-    "sha256":  "2494f378c492552ef8fefa508770e4fc3ee6ae7616243cab0210f7c4cdf575e5",
-    "size":  93860507,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.76",
-    "notes":  "AniSol now falls back AniList to MyAnimeList to Kitsu, carrying your Discover filters across, and names the catalog in use.",
+    "version":  "0.11.77",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.77/AniSol-0.11.77-win64.zip",
+    "sha256":  "e34c889a98547fb782335987668d30ea53c242dabee35e775ddd170b5d722a65",
+    "size":  93864106,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.77",
+    "notes":  "Discover now fills the window from its own size instead of waiting on the grid to lay out, so it no longer sits on one page of twenty.",
     "requireAuthenticode":  false
 }
