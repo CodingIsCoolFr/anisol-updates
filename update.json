@@ -1,10 +1,10 @@
 ﻿{
     "schema":  1,
-    "version":  "0.11.75",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.75/AniSol-0.11.75-win64.zip",
-    "sha256":  "71895c72fc23fe772671c194c983256c231c95101f44d02dc61de85f6ca68989",
-    "size":  93847619,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.75",
-    "notes":  "Discover now fills the window and keeps scrolling instead of sitting on one page of twenty.",
+    "version":  "0.11.76",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.76/AniSol-0.11.76-win64.zip",
+    "sha256":  "2494f378c492552ef8fefa508770e4fc3ee6ae7616243cab0210f7c4cdf575e5",
+    "size":  93860507,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.76",
+    "notes":  "AniSol now falls back AniList to MyAnimeList to Kitsu, carrying your Discover filters across, and names the catalog in use.",
     "requireAuthenticode":  false
 }
