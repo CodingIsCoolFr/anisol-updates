@@ -1,10 +1,10 @@
 ﻿{
     "schema":  1,
-    "version":  "0.11.74",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.74/AniSol-0.11.74-win64.zip",
-    "sha256":  "ba2677cbc4dad02525befca41de9c7871b73241073c6848ae896cc53b1738b8b",
-    "size":  93846028,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.74",
-    "notes":  "Discover now keeps paging while AniList is offline, applies your filters to backup results, and says which catalog it is using.",
+    "version":  "0.11.75",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.75/AniSol-0.11.75-win64.zip",
+    "sha256":  "71895c72fc23fe772671c194c983256c231c95101f44d02dc61de85f6ca68989",
+    "size":  93847619,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.75",
+    "notes":  "Discover now fills the window and keeps scrolling instead of sitting on one page of twenty.",
     "requireAuthenticode":  false
 }
