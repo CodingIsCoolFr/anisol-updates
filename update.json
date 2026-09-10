@@ -1,10 +1,10 @@
 {
     "schema":  1,
-    "version":  "2.0.3",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.3/AniSol-2.0.3-win64.zip",
-    "sha256":  "16bacf2212aa2dace5eac9133ea6fe66e8877fbab92fd88a90bae03da694d046",
-    "size":  84312934,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.3",
-    "notes":  "The interface rebuilt on the 0.11 design language: the logo mark is back in the corner and at the top of the rail, the rail is 86px of layered glass again and goes transparent over the hero, and covers have their card body back at 184 by 304, ringing in each title's own accent colour.",
+    "version":  "2.0.4",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.4/AniSol-2.0.4-win64.zip",
+    "sha256":  "aeab73cbf5c120fab2970036df8ddc803ee187fda273ca98892b8b14a5602ecb",
+    "size":  84345302,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.4",
+    "notes":  "Brings back the torrent screen, which version 2 shipped without entirely: progress, speeds, peers and where they are, the file on disk, and controls to stop or clear it. Home's artwork fills the window again instead of a band across the top, and the hero appears with the first page that lands rather than several seconds later.",
     "requireAuthenticode":  false
 }
