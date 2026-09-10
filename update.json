@@ -1,10 +1,10 @@
 {
     "schema":  1,
-    "version":  "0.11.79",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.79/AniSol-0.11.79-win64.zip",
-    "sha256":  "98c2979149ccbef733a5a2265cdce0bbcc32ed59a7bee55a267030466ddee477",
-    "size":  93866390,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.79",
-    "notes":  "Releases a Discover page request that never completed, and logs the top-up state so a stall names its own cause.",
+    "version":  "2.0.1",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.1/AniSol-2.0.1-win64.zip",
+    "sha256":  "f214a551e384eb67719a12c2a6fc47bbfbad61d5d65965c8fb64dc2ebe7ff26d",
+    "size":  84238964,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.1",
+    "notes":  "A ground-up rebuild. 2.0.0 rolled itself back on every install because it never answered the launcher's startup health check; this fixes that. Also fixes the refusal that made AniList look dead, so Discover no longer stops at twenty titles and every episode has a title, thumbnail and filler mark.",
     "requireAuthenticode":  false
 }
