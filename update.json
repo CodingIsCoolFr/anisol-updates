@@ -1,10 +1,10 @@
 {
     "schema":  1,
-    "version":  "2.0.2",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.2/AniSol-2.0.2-win64.zip",
-    "sha256":  "6d18d9e48de42a9d04befd495ef56652fe551721c079375ea3fd6d1f1532dbdc",
-    "size":  84274266,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.2",
-    "notes":  "Fixes AniList sign-in doing nothing: the application had stopped claiming the anisol:// link the browser sends the answer back to. The window now draws its own transparent title bar over the artwork, so a hero bleeds to the very top instead of stopping under an opaque strip.",
+    "version":  "2.0.3",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.3/AniSol-2.0.3-win64.zip",
+    "sha256":  "16bacf2212aa2dace5eac9133ea6fe66e8877fbab92fd88a90bae03da694d046",
+    "size":  84312934,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.3",
+    "notes":  "The interface rebuilt on the 0.11 design language: the logo mark is back in the corner and at the top of the rail, the rail is 86px of layered glass again and goes transparent over the hero, and covers have their card body back at 184 by 304, ringing in each title's own accent colour.",
     "requireAuthenticode":  false
 }
