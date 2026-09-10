@@ -1,10 +1,10 @@
 {
     "schema":  1,
-    "version":  "2.0.0",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.0/AniSol-2.0.0-win64.zip",
-    "sha256":  "5e26e2b5b68a87d8221f36d3c9afd19299560bad4496667bccdacc8dbf41f812",
-    "size":  84213274,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.0",
-    "notes":  "A ground-up rebuild. Fixes the refusal that made AniList look dead: every browse fell back to a smaller catalogue, Discover stopped at twenty titles, and no title had episodes, cast or relations. Episodes now have titles, thumbnails and filler marks, Home has its eleven shelves back, and the interface is redrawn around the artwork.",
+    "version":  "0.11.79",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v0.11.79/AniSol-0.11.79-win64.zip",
+    "sha256":  "98c2979149ccbef733a5a2265cdce0bbcc32ed59a7bee55a267030466ddee477",
+    "size":  93866390,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v0.11.79",
+    "notes":  "Releases a Discover page request that never completed, and logs the top-up state so a stall names its own cause.",
     "requireAuthenticode":  false
 }
