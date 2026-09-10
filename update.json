@@ -1,10 +1,10 @@
 {
-    "schema":  1,
-    "version":  "2.0.4",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.4/AniSol-2.0.4-win64.zip",
-    "sha256":  "aeab73cbf5c120fab2970036df8ddc803ee187fda273ca98892b8b14a5602ecb",
-    "size":  84345302,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.4",
-    "notes":  "Brings back the torrent screen, which version 2 shipped without entirely: progress, speeds, peers and where they are, the file on disk, and controls to stop or clear it. Home's artwork fills the window again instead of a band across the top, and the hero appears with the first page that lands rather than several seconds later.",
-    "requireAuthenticode":  false
+    "schema": 1,
+    "version": "2.0.5",
+    "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.5/AniSol-2.0.5-win64.zip",
+    "sha256": "a8b72d7b0914664ae1cc4888c4def7c380b59055b2a11f52c0c126b012c8aa49",
+    "size": 84491241,
+    "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.5",
+    "notes": "The peer globe is back, carried over from the 0.11 build rather than reinvented. Each dot is a connected peer at its country's centre, green while it is sending you data, blue while it is taking data from you, purple while it is idle. The address used to place a peer is dropped immediately: it never reaches the interface and never leaves this machine. Home's hero is sharp: it was stretching a wide banner to fill a tall window, past twice its size. It now uses the tall cover down the right of the window, so the picture is being made smaller rather than bigger, and the copy sits beside it rather than on top of it.",
+    "requireAuthenticode": false
 }
