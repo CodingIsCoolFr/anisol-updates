@@ -1,10 +1,10 @@
 {
     "schema": 1,
-    "version": "2.0.10",
-    "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.10/AniSol-2.0.10-win64.zip",
-    "sha256": "5d569e2905cf3370dba3c586f7c0430b8cd7d1a3fa2693cbd53095713b67ab0e",
-    "size": 84594564,
-    "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.10",
-    "notes": "Every title's background is sharp now, not just most of them. Some looked crisp and others soft, and the reason was the picture rather than the code: TheTVDB's backdrop is usually 1920 by 1080, which fills a window of this size while being made smaller, but roughly one title in six comes back at 1280 by 720 and has to be enlarged instead. AniSol now also asks Kitsu, which maps AniList ids exactly and holds the same artwork at 2892 to 4000 wide, and keeps whichever picture can actually cover the window. Shape alone was never enough to decide that: 1280 by 720 and 1920 by 1080 are the same shape and only one of them can.",
+    "version": "2.0.11",
+    "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.11/AniSol-2.0.11-win64.zip",
+    "sha256": "a2734e12d499aa0e163d719bd04e7ef303f418638387590143a0525bf39ac5b7",
+    "size": 84594509,
+    "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.11",
+    "notes": "The top of the page no longer lags behind the rest of it. The hero was reading its title through a plain function call, and the interface only re-runs one of those when the position in the rotation changes, which does not happen until nine seconds in. So the hero sat empty for nine seconds after its own shelf had already arrived, while everything below it filled in normally. It now reads the title the moment the shelf lands. The short wait that lets the hero and its artwork appear together was also being restarted every time a shelf finished, so the hero ended up waiting on the whole page instead of on its own picture; it is started once now, and it is shorter.",
     "requireAuthenticode": false
 }
