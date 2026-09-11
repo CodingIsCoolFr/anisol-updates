@@ -1,10 +1,10 @@
 {
     "schema": 1,
-    "version": "2.0.12",
-    "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.12/AniSol-2.0.12-win64.zip",
-    "sha256": "132970d61b35c4f7b3f1b9618c1b2b7e689443901db32755832fec1854236f1e",
-    "size": 84603211,
-    "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.12",
-    "notes": "Signing in to AniList works again. The rebuild hardcoded the API client of a different application, and AniList always sends the browser back to the Redirect URL registered against the client, so sign-in ended on that other application's own local address, which is not running on anybody's machine. The token was issued correctly and delivered nowhere. It now uses Anime Solution's own client, the one the 0.11 build used. The client is a setting again rather than a number baked into the build, and Settings has a field for it: anyone can register their own at anilist.co/settings/developer with the Redirect URL set to anisol://oauth.",
+    "version": "2.0.13",
+    "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.13/AniSol-2.0.13-win64.zip",
+    "sha256": "035df9fd11bacdfdd119ae0c119e663fc751c9223e4007b37d8c371ef03caf16",
+    "size": 84609495,
+    "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.13",
+    "notes": "Your AniList list now shows up where you would look for it. Home has a Watching on AniList row, because signing in and then finding none of your own anime anywhere on the page is the reason it exists; it keeps its own copy of the list rather than sharing the library screen's, which changes status every time a tab is clicked. The library also opens on Watching when you are signed in, instead of on Continue watching, which only lists episodes played on this machine and so left someone who had just signed in on an empty page.",
     "requireAuthenticode": false
 }
