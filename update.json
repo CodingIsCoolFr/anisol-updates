@@ -1,10 +1,10 @@
 {
     "schema": 1,
-    "version": "2.0.9",
-    "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.9/AniSol-2.0.9-win64.zip",
-    "sha256": "234e19b18aa9cc970784b9a27c944a886c7ead99353b145d889859c9c3f02630",
-    "size": 84591930,
-    "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.9",
-    "notes": "Home fills in about twice as fast. Every shelf was fetching a second page it had no use for: one request already returns fifty titles, and a row that shows about ten was being held to sixty before it would settle. That floor exists so the Discover grid is always tall enough to scroll, and a single sideways row has nothing to scroll, so it no longer applies to one. Home also shows the shape of what is coming rather than an empty page: the hero and any shelf that has not answered yet are drawn as placeholder cards at the exact size of the real ones, with a pale band crossing them, so nothing moves when the real covers land. Reduce motion leaves the placeholders still.",
+    "version": "2.0.10",
+    "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.10/AniSol-2.0.10-win64.zip",
+    "sha256": "5d569e2905cf3370dba3c586f7c0430b8cd7d1a3fa2693cbd53095713b67ab0e",
+    "size": 84594564,
+    "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.10",
+    "notes": "Every title's background is sharp now, not just most of them. Some looked crisp and others soft, and the reason was the picture rather than the code: TheTVDB's backdrop is usually 1920 by 1080, which fills a window of this size while being made smaller, but roughly one title in six comes back at 1280 by 720 and has to be enlarged instead. AniSol now also asks Kitsu, which maps AniList ids exactly and holds the same artwork at 2892 to 4000 wide, and keeps whichever picture can actually cover the window. Shape alone was never enough to decide that: 1280 by 720 and 1920 by 1080 are the same shape and only one of them can.",
     "requireAuthenticode": false
 }
