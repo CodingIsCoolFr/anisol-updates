@@ -1,10 +1,10 @@
 {
     "schema": 1,
-    "version": "2.0.8",
-    "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.8/AniSol-2.0.8-win64.zip",
-    "sha256": "9591c437b43a17550c884807381861bbaaf8fb73b3c05fc978f54bd2a6967b0f",
-    "size": 84581372,
-    "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.8",
-    "notes": "The key art fills the whole window now, sharp, top to bottom. It was reaching only part of the way down with a blurred copy taking over below it, which is why the lower half looked soft, and the ink over that lower half ran heavy enough that the artwork was technically present and effectively invisible. The picture is still never stretched to fit: a 1920 by 1080 backdrop is tall enough to cover a window of this shape while being made smaller, so it does, while a 1900 by 400 banner is drawn as a band at its own true height with the blur filling the rest.",
+    "version": "2.0.9",
+    "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.9/AniSol-2.0.9-win64.zip",
+    "sha256": "234e19b18aa9cc970784b9a27c944a886c7ead99353b145d889859c9c3f02630",
+    "size": 84591930,
+    "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.9",
+    "notes": "Home fills in about twice as fast. Every shelf was fetching a second page it had no use for: one request already returns fifty titles, and a row that shows about ten was being held to sixty before it would settle. That floor exists so the Discover grid is always tall enough to scroll, and a single sideways row has nothing to scroll, so it no longer applies to one. Home also shows the shape of what is coming rather than an empty page: the hero and any shelf that has not answered yet are drawn as placeholder cards at the exact size of the real ones, with a pale band crossing them, so nothing moves when the real covers land. Reduce motion leaves the placeholders still.",
     "requireAuthenticode": false
 }
