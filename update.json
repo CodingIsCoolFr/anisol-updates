@@ -1,10 +1,10 @@
 {
     "schema": 1,
-    "version": "2.0.11",
-    "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.11/AniSol-2.0.11-win64.zip",
-    "sha256": "a2734e12d499aa0e163d719bd04e7ef303f418638387590143a0525bf39ac5b7",
-    "size": 84594509,
-    "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.11",
-    "notes": "The top of the page no longer lags behind the rest of it. The hero was reading its title through a plain function call, and the interface only re-runs one of those when the position in the rotation changes, which does not happen until nine seconds in. So the hero sat empty for nine seconds after its own shelf had already arrived, while everything below it filled in normally. It now reads the title the moment the shelf lands. The short wait that lets the hero and its artwork appear together was also being restarted every time a shelf finished, so the hero ended up waiting on the whole page instead of on its own picture; it is started once now, and it is shorter.",
+    "version": "2.0.12",
+    "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.12/AniSol-2.0.12-win64.zip",
+    "sha256": "132970d61b35c4f7b3f1b9618c1b2b7e689443901db32755832fec1854236f1e",
+    "size": 84603211,
+    "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.12",
+    "notes": "Signing in to AniList works again. The rebuild hardcoded the API client of a different application, and AniList always sends the browser back to the Redirect URL registered against the client, so sign-in ended on that other application's own local address, which is not running on anybody's machine. The token was issued correctly and delivered nowhere. It now uses Anime Solution's own client, the one the 0.11 build used. The client is a setting again rather than a number baked into the build, and Settings has a field for it: anyone can register their own at anilist.co/settings/developer with the Redirect URL set to anisol://oauth.",
     "requireAuthenticode": false
 }
