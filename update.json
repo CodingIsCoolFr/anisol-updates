@@ -1,10 +1,10 @@
 {
     "schema": 1,
-    "version": "2.0.13",
-    "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.13/AniSol-2.0.13-win64.zip",
-    "sha256": "035df9fd11bacdfdd119ae0c119e663fc751c9223e4007b37d8c371ef03caf16",
-    "size": 84609495,
-    "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.13",
-    "notes": "Your AniList list now shows up where you would look for it. Home has a Watching on AniList row, because signing in and then finding none of your own anime anywhere on the page is the reason it exists; it keeps its own copy of the list rather than sharing the library screen's, which changes status every time a tab is clicked. The library also opens on Watching when you are signed in, instead of on Continue watching, which only lists episodes played on this machine and so left someone who had just signed in on an empty page.",
+    "version": "2.0.14",
+    "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.14/AniSol-2.0.14-win64.zip",
+    "sha256": "bc24a805514ef968d52da01ab31de92ebdeb983213fad7e163831cf648f71715",
+    "size": 84622260,
+    "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.14",
+    "notes": "Clicking a release shows you something now. The player only opens once the start and the end of the file have arrived, because a video cannot be opened without both, and that rule was completely silent: clicking put nothing on screen, sometimes for a minute, so the only reasonable conclusion was that the click had not registered. There is now a panel with the state, how many people you are connected to, the speed, progress, and a Stop. Episodes also have their real titles, summaries, air dates and screenshots: they were coming from MyAnimeList alone, which times out often enough that a whole series would read Untitled all the way down and which carries no pictures at all, so AniSol now also reads the episode guide mapped from the AniList id.",
     "requireAuthenticode": false
 }
