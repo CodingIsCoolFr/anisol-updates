@@ -1,10 +1,10 @@
 {
     "schema": 1,
-    "version": "2.0.6",
-    "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.6/AniSol-2.0.6-win64.zip",
-    "sha256": "ba4759fd3ec349dd19d1183aaa0ed81e91f959c2320e1d671f3538da8962421c",
-    "size": 84564649,
-    "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.6",
-    "notes": "Home's artwork is a bigger picture now, not a stretched one. AniList's banner is 1900 by 400 and its largest cover 460 by 690, so neither can fill a wide window without being enlarged, and an enlarged photograph is all blurry ever was. AniSol now maps the title onto TheTVDB's artwork and uses its 1920 by 1080 backdrop, which a wide band crops instead of stretching, and it shows the show's own logo where one exists. The downloads screen is a torrent client again, with the five tabs the old build had: Overview, Files, Peers, Trackers and Settings. Files lists everything in the release with its own progress and a switch to fetch or skip it. Peers lists who you are connected to, what they run, where they are and how fast, worked out and kept on your machine. Settings covers speed limits both ways, connections, the incoming port, DHT, local discovery, UPnP and NAT-PMP, and how much of the start to secure before the player opens. Pause, resume and re-announce are back, and the swarm globe stays on screen while nothing is downloading instead of vanishing.",
+    "version": "2.0.7",
+    "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.7/AniSol-2.0.7-win64.zip",
+    "sha256": "7769cf9262ea39bbbc632a746a8c13adbd7a72de3f3dcb5656e8ddf64a34b383",
+    "size": 84574489,
+    "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.7",
+    "notes": "Home feels like one page now, and a faster one. The artwork sits behind the whole window again, so the shelves rest on the key art rather than on a black sheet. The hero and its artwork arrive together instead of the picture swapping and the logo dropping in afterwards. Covers are cached on disk, so they come off the disk after the first run rather than being downloaded again on every launch, and they are decoded at about the size they are drawn rather than at full size, which is most of why scrolling stuttered. Home loads four rows at once instead of one at a time, without asking any more of AniList at any moment. Switches are purple when they are on: the downloads screen had been using a plain black-and-white switch next to a settings screen whose switches were purple.",
     "requireAuthenticode": false
 }
