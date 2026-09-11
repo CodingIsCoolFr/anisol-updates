@@ -1,10 +1,10 @@
 {
     "schema": 1,
-    "version": "2.0.7",
-    "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.7/AniSol-2.0.7-win64.zip",
-    "sha256": "7769cf9262ea39bbbc632a746a8c13adbd7a72de3f3dcb5656e8ddf64a34b383",
-    "size": 84574489,
-    "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.7",
-    "notes": "Home feels like one page now, and a faster one. The artwork sits behind the whole window again, so the shelves rest on the key art rather than on a black sheet. The hero and its artwork arrive together instead of the picture swapping and the logo dropping in afterwards. Covers are cached on disk, so they come off the disk after the first run rather than being downloaded again on every launch, and they are decoded at about the size they are drawn rather than at full size, which is most of why scrolling stuttered. Home loads four rows at once instead of one at a time, without asking any more of AniList at any moment. Switches are purple when they are on: the downloads screen had been using a plain black-and-white switch next to a settings screen whose switches were purple.",
+    "version": "2.0.8",
+    "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.8/AniSol-2.0.8-win64.zip",
+    "sha256": "9591c437b43a17550c884807381861bbaaf8fb73b3c05fc978f54bd2a6967b0f",
+    "size": 84581372,
+    "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.8",
+    "notes": "The key art fills the whole window now, sharp, top to bottom. It was reaching only part of the way down with a blurred copy taking over below it, which is why the lower half looked soft, and the ink over that lower half ran heavy enough that the artwork was technically present and effectively invisible. The picture is still never stretched to fit: a 1920 by 1080 backdrop is tall enough to cover a window of this shape while being made smaller, so it does, while a 1900 by 400 banner is drawn as a band at its own true height with the blur filling the rest.",
     "requireAuthenticode": false
 }
