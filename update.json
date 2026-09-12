@@ -1,10 +1,10 @@
 {
     "schema": 1,
-    "version": "2.0.19",
-    "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.19/AniSol-2.0.19-win64.zip",
-    "sha256": "e901f01e8e1783deb54720f84b64015290cfb6a8d958fd9f46d849ab599fa925",
-    "size": 84715255,
-    "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.19",
-    "notes": "Continue watching searches for the right name now. A checkpoint only remembered the display title, and release groups name their files with the romaji one, so resuming searched for a name almost no release carries and came back with a single result that then looked like the whole catalogue. It was not one English source; it was one search result. Checkpoints now remember the romaji title as well. One saved before this update has only the display name, so resuming it opens the anime instead of showing a search that would be wrong.",
+    "version": "2.0.20",
+    "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.20/AniSol-2.0.20-win64.zip",
+    "sha256": "15a87ce10fef33b84b8fcd423508fd60ffd04c92c56d7dc720f5e0096b9e9402",
+    "size": 84726026,
+    "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.20",
+    "notes": "Subtitles are drawn properly. Anime releases use ASS subtitles almost without exception, and Qt hands over their raw event text and renders it unstyled, so the rebuild either showed nothing or showed override codes on screen. The 0.11 build had solved this and the rebuild shipped none of it: the cue is now read from the decoder, the override tags and markup stripped, and the caption drawn in the application's own type, outlined rather than boxed and lifted clear of the controls while they are showing. Qt's own text node is detached so nothing is drawn twice. A positioned sign cue is refused rather than flattened, because turning one into a centred line of dialogue produces a screenful of nonsense.",
     "requireAuthenticode": false
 }
