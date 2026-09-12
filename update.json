@@ -1,10 +1,10 @@
 {
     "schema":  1,
-    "version":  "2.0.24",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.24/AniSol-2.0.24-win64.zip",
-    "sha256":  "b6294a0d63ee9b886d86485ec9aac9c8edafcecc09df62bdabfb149a0f4ade03",
-    "size":  84757965,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.24",
-    "notes":  "The English track is played, not just downloaded. Episodes start on their own. The ambient light lines up with the picture.",
+    "version":  "2.0.25",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.25/AniSol-2.0.25-win64.zip",
+    "sha256":  "d59a322bd2154a291820fe8ac731678e3985b67d6ef9ec86463c2b81eb1ddcf7",
+    "size":  84764095,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.25",
+    "notes":  "Full screen is full screen again, and ambient lighting has its own button on the player controls.",
     "requireAuthenticode":  false
 }
