@@ -1,10 +1,10 @@
 {
     "schema":  1,
-    "version":  "2.0.23",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.23/AniSol-2.0.23-win64.zip",
-    "sha256":  "8f68dd15010b6d4a7d9e5b6f25ad1152546f488e37c726ddcf84bdc0f19b2299",
-    "size":  84754897,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.23",
-    "notes":  "Nyaa and SeaDex releases actually start now: their magnets carried no tracker, so nothing could find the swarm.",
+    "version":  "2.0.24",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.24/AniSol-2.0.24-win64.zip",
+    "sha256":  "b6294a0d63ee9b886d86485ec9aac9c8edafcecc09df62bdabfb149a0f4ade03",
+    "size":  84757965,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.24",
+    "notes":  "The English track is played, not just downloaded. Episodes start on their own. The ambient light lines up with the picture.",
     "requireAuthenticode":  false
 }
