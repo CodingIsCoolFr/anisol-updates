@@ -1,10 +1,10 @@
 {
     "schema":  1,
-    "version":  "2.0.21",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.21/AniSol-2.0.21-win64.zip",
-    "sha256":  "d67613106020fa5b41386eb4c1c2077511aad60c8d0c7a3cae90121b37909b7b",
-    "size":  84730943,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.21",
-    "notes":  "Every release is found, not just the ones using one name. Multi-Audio is read as an English track.",
+    "version":  "2.0.22",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.22/AniSol-2.0.22-win64.zip",
+    "sha256":  "8a0517405dcf6b7657864cb42cc136009ce677b927b8571791defffed21aed1e",
+    "size":  84753722,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.22",
+    "notes":  "Hover is light and depth now, not a line. The play button is drawn rather than typed.",
     "requireAuthenticode":  false
 }
