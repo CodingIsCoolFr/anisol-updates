@@ -1,10 +1,10 @@
 {
     "schema": 1,
-    "version": "2.0.16",
-    "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.16/AniSol-2.0.16-win64.zip",
-    "sha256": "8828b85fdcc2e9a55391afed609c251a0543c585d9ae86b426491eb3d9400f9d",
-    "size": 84646074,
-    "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.16",
-    "notes": "Releases are ordered by how well they will actually play. Swarm health now sets the band a release lands in, the 0.11 build's rule and the right one, and everything else decides the order within a band. Before, a trusted group at exactly the right resolution with fifty peers beat an ordinary one with three hundred and fifty, which is backwards: the second one starts playing and the first one crawls. Trust, resolution and audio still decide between releases of comparable health. Every release now says which band it is in, in plain words, and the one the ranking chose is marked BEST PICK rather than merely being the top line of a list.",
+    "version": "2.0.17",
+    "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.17/AniSol-2.0.17-win64.zip",
+    "sha256": "66f27a16f8177729a6f8ae44b31096ef5ba4fe977eaa31a4f2dee55982ab3ece",
+    "size": 84709394,
+    "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.17",
+    "notes": "The player is a player now. Every control used to share one row, so the seek bar was given whatever width was left over, which came to a stub, and the clock ran off the edge of the screen. The scrub bar has a full-width line of its own, and the rest sits below it in two groups. The rail is gone while a video has the whole window, which is what was cutting the clock in half, and comes back in mini mode. The player says what is playing, the scrub bar shows how much of the file is on disk as well as how far you have watched, there are ten-second skips, clicking the picture plays or pauses, and the controls fade while it plays. The controls are drawn icons on one grid rather than keyboard glyphs and emoji.",
     "requireAuthenticode": false
 }
