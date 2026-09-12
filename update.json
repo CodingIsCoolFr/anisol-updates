@@ -1,10 +1,10 @@
 {
     "schema": 1,
-    "version": "2.0.18",
-    "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.18/AniSol-2.0.18-win64.zip",
-    "sha256": "58fbea080a61d0d4dd67b8ff0af65c6529e3c59cadc65e79c55b615170e16721",
-    "size": 84715030,
-    "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.18",
-    "notes": "Continue watching works: it searched for the episode and never opened the releases page, so the card did nothing you could see. You get the audio you asked for: last release's ranking made swarm health decide everything, and an English release with fifty peers lost to a Japanese one with three hundred, which is not a slightly worse result but the wrong thing. A release carrying the audio you chose now jumps bands, as long as its swarm can actually play. There is a full screen button, and F, F11 and double-clicking the picture all do it. Playback is smoother: the ambient glow was rendering a second copy of the picture at half the window size and blurring it hard on every frame, competing with the decoder for the same graphics card. And the application's title bar no longer draws across the player's own title.",
+    "version": "2.0.19",
+    "packageUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.19/AniSol-2.0.19-win64.zip",
+    "sha256": "e901f01e8e1783deb54720f84b64015290cfb6a8d958fd9f46d849ab599fa925",
+    "size": 84715255,
+    "releaseUrl": "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.19",
+    "notes": "Continue watching searches for the right name now. A checkpoint only remembered the display title, and release groups name their files with the romaji one, so resuming searched for a name almost no release carries and came back with a single result that then looked like the whole catalogue. It was not one English source; it was one search result. Checkpoints now remember the romaji title as well. One saved before this update has only the display name, so resuming it opens the anime instead of showing a search that would be wrong.",
     "requireAuthenticode": false
 }
