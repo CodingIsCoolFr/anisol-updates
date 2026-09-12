@@ -1,10 +1,10 @@
 {
     "schema":  1,
-    "version":  "2.0.22",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.22/AniSol-2.0.22-win64.zip",
-    "sha256":  "8a0517405dcf6b7657864cb42cc136009ce677b927b8571791defffed21aed1e",
-    "size":  84753722,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.22",
-    "notes":  "Hover is light and depth now, not a line. The play button is drawn rather than typed.",
+    "version":  "2.0.23",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.23/AniSol-2.0.23-win64.zip",
+    "sha256":  "8f68dd15010b6d4a7d9e5b6f25ad1152546f488e37c726ddcf84bdc0f19b2299",
+    "size":  84754897,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.23",
+    "notes":  "Nyaa and SeaDex releases actually start now: their magnets carried no tracker, so nothing could find the swarm.",
     "requireAuthenticode":  false
 }
