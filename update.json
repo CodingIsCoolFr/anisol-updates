@@ -1,10 +1,10 @@
 {
     "schema":  1,
-    "version":  "2.0.27",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.27/AniSol-2.0.27-win64.zip",
-    "sha256":  "69bb432469ddb2cd7c169d96e751cd9faadf28513aa4cbe30e87f11117a01f5b",
-    "size":  84765502,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.27",
-    "notes":  "Discord shows what you are watching again, and says so in the log when it cannot.",
+    "version":  "2.0.28",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.28/AniSol-2.0.28-win64.zip",
+    "sha256":  "722734016a5114af6ab212f34df4b431813d07727df4df5a5671eb95f350eecf",
+    "size":  84765554,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.28",
+    "notes":  "Discord shows the episode count again when you resume from a Continue watching card.",
     "requireAuthenticode":  false
 }
