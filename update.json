@@ -1,10 +1,10 @@
 {
     "schema":  1,
-    "version":  "2.0.32",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.32/AniSol-2.0.32-win64.zip",
-    "sha256":  "7732c39138206b51c2705aa909ca38fcd272c09a80e7a9a1dc814acf1b539955",
-    "size":  84791696,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.32",
-    "notes":  "The player shows what the stream is doing, full screen stops pausing the episode, and ambient lighting is a choice in full screen too.",
+    "version":  "2.0.33",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.33/AniSol-2.0.33-win64.zip",
+    "sha256":  "ccc99f1d6c91f8e4894ae69defbe6492ce084b9ea6a1b5ab2fda853d21f8534e",
+    "size":  84793051,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.33",
+    "notes":  "Two ways to fill the screen, one button each: ambient mode, and plain full screen.",
     "requireAuthenticode":  false
 }
