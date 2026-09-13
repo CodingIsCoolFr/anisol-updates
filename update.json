@@ -1,10 +1,10 @@
 {
     "schema":  1,
-    "version":  "2.0.25",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.25/AniSol-2.0.25-win64.zip",
-    "sha256":  "d59a322bd2154a291820fe8ac731678e3985b67d6ef9ec86463c2b81eb1ddcf7",
-    "size":  84764095,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.25",
-    "notes":  "Full screen is full screen again, and ambient lighting has its own button on the player controls.",
+    "version":  "2.0.26",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.26/AniSol-2.0.26-win64.zip",
+    "sha256":  "1152c9bbf3da1d3f730204bbdadd19c7ae11626103f8cc9e8b8855ed2c1b4300",
+    "size":  84764559,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.26",
+    "notes":  "The player\u0027s buttons work again, and ambient lighting now fills the window instead of hiding behind the picture.",
     "requireAuthenticode":  false
 }
