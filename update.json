@@ -1,10 +1,10 @@
 {
     "schema":  1,
-    "version":  "2.0.33",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.33/AniSol-2.0.33-win64.zip",
-    "sha256":  "ccc99f1d6c91f8e4894ae69defbe6492ce084b9ea6a1b5ab2fda853d21f8534e",
-    "size":  84793051,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.33",
-    "notes":  "Two ways to fill the screen, one button each: ambient mode, and plain full screen.",
+    "version":  "2.0.34",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.34/AniSol-2.0.34-win64.zip",
+    "sha256":  "12e296787d9777030b29642cf1a7df1769b2ad990908eef7a6d83de0b49564d2",
+    "size":  84794096,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.34",
+    "notes":  "Switching between the two screen-filling modes is smooth, and the ambient button is drawn as what it does.",
     "requireAuthenticode":  false
 }
