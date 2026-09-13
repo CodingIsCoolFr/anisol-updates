@@ -1,10 +1,10 @@
 {
     "schema":  1,
-    "version":  "2.0.26",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.26/AniSol-2.0.26-win64.zip",
-    "sha256":  "1152c9bbf3da1d3f730204bbdadd19c7ae11626103f8cc9e8b8855ed2c1b4300",
-    "size":  84764559,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.26",
-    "notes":  "The player\u0027s buttons work again, and ambient lighting now fills the window instead of hiding behind the picture.",
+    "version":  "2.0.27",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.27/AniSol-2.0.27-win64.zip",
+    "sha256":  "69bb432469ddb2cd7c169d96e751cd9faadf28513aa4cbe30e87f11117a01f5b",
+    "size":  84765502,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.27",
+    "notes":  "Discord shows what you are watching again, and says so in the log when it cannot.",
     "requireAuthenticode":  false
 }
