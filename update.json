@@ -1,10 +1,10 @@
 {
     "schema":  1,
-    "version":  "2.0.29",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.29/AniSol-2.0.29-win64.zip",
-    "sha256":  "6d5ffad5d2f62c0bcf6fbd1f05244d7ae47f381fa98c8da50a969332b3a01e2b",
-    "size":  84781677,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.29",
-    "notes":  "Backing out of an episode now leaves it playing in a floating window you can put anywhere.",
+    "version":  "2.0.30",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.30/AniSol-2.0.30-win64.zip",
+    "sha256":  "7027e9301874953208bf7307d6feb3ba35110d9a9aba68effda98820c39ac1d8",
+    "size":  84779913,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.30",
+    "notes":  "The floating player moves and resizes properly, and the peer globe stops burning the processor when nothing is downloading.",
     "requireAuthenticode":  false
 }
