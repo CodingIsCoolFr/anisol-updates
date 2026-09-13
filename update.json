@@ -1,10 +1,10 @@
 {
     "schema":  1,
-    "version":  "2.0.31",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.31/AniSol-2.0.31-win64.zip",
-    "sha256":  "96f999356c3893be165b7a710723e7c8fed4a6b1793cf968ea0bfb318b1c3f29",
-    "size":  84782476,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.31",
-    "notes":  "Home holds about an eighth less memory, measured, with no change to how anything looks.",
+    "version":  "2.0.32",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.32/AniSol-2.0.32-win64.zip",
+    "sha256":  "7732c39138206b51c2705aa909ca38fcd272c09a80e7a9a1dc814acf1b539955",
+    "size":  84791696,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.32",
+    "notes":  "The player shows what the stream is doing, full screen stops pausing the episode, and ambient lighting is a choice in full screen too.",
     "requireAuthenticode":  false
 }
