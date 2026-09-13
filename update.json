@@ -1,10 +1,10 @@
 {
     "schema":  1,
-    "version":  "2.0.35",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.35/AniSol-2.0.35-win64.zip",
-    "sha256":  "9a926726ba1e63fe7e73e30b6efba84f52f63b16ebfdd3575cac51012ff27d24",
-    "size":  84795678,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.35",
-    "notes":  "Episodes are added running instead of paused, which is why a download would sometimes sit at zero peers. The Settings button is a cog.",
+    "version":  "2.0.36",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.36/AniSol-2.0.36-win64.zip",
+    "sha256":  "2c5242140eaf14cbfc777d2eac1ca06bf6b777d6a778e22aea45a01203949d5b",
+    "size":  84805714,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.36",
+    "notes":  "The floating player takes hold the moment you move it, and stretches from all eight of its own edges.",
     "requireAuthenticode":  false
 }
