@@ -1,10 +1,10 @@
 ﻿{
     "schema":  1,
-    "version":  "2.0.36",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.36/AniSol-2.0.36-win64.zip",
-    "sha256":  "2c5242140eaf14cbfc777d2eac1ca06bf6b777d6a778e22aea45a01203949d5b",
-    "size":  84805714,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.36",
-    "notes":  "The floating player takes hold the moment you move it, and stretches from all eight of its own edges.",
+    "version":  "2.0.37",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.37/AniSol-2.0.37-win64.zip",
+    "sha256":  "745d7e8c4919bf4db9a96737917365a60c83f4a5b6de88b4e57cfa7cfbf64c51",
+    "size":  84808198,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.37",
+    "notes":  "The rail\u0027s buttons line up in one straight column, and the Settings cog is centred in its square.",
     "requireAuthenticode":  false
 }
