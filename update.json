@@ -1,10 +1,10 @@
 {
     "schema":  1,
-    "version":  "2.0.30",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.30/AniSol-2.0.30-win64.zip",
-    "sha256":  "7027e9301874953208bf7307d6feb3ba35110d9a9aba68effda98820c39ac1d8",
-    "size":  84779913,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.30",
-    "notes":  "The floating player moves and resizes properly, and the peer globe stops burning the processor when nothing is downloading.",
+    "version":  "2.0.31",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.31/AniSol-2.0.31-win64.zip",
+    "sha256":  "96f999356c3893be165b7a710723e7c8fed4a6b1793cf968ea0bfb318b1c3f29",
+    "size":  84782476,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.31",
+    "notes":  "Home holds about an eighth less memory, measured, with no change to how anything looks.",
     "requireAuthenticode":  false
 }
