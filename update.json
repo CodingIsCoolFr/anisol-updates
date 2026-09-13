@@ -1,10 +1,10 @@
 {
     "schema":  1,
-    "version":  "2.0.28",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.28/AniSol-2.0.28-win64.zip",
-    "sha256":  "722734016a5114af6ab212f34df4b431813d07727df4df5a5671eb95f350eecf",
-    "size":  84765554,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.28",
-    "notes":  "Discord shows the episode count again when you resume from a Continue watching card.",
+    "version":  "2.0.29",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.29/AniSol-2.0.29-win64.zip",
+    "sha256":  "6d5ffad5d2f62c0bcf6fbd1f05244d7ae47f381fa98c8da50a969332b3a01e2b",
+    "size":  84781677,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.29",
+    "notes":  "Backing out of an episode now leaves it playing in a floating window you can put anywhere.",
     "requireAuthenticode":  false
 }
