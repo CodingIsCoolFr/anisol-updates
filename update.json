@@ -1,10 +1,10 @@
 ﻿{
     "schema":  1,
-    "version":  "2.0.38",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.38/AniSol-2.0.38-win64.zip",
-    "sha256":  "5de559df0b5a983d0dc36ee5da277e117cdeec9d60690b4b09d05652ffb2b0eb",
-    "size":  84817035,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.38",
-    "notes":  "The dots under the hero stop snapping: the accent runs across the pill over the nine seconds that title is up.",
+    "version":  "2.0.39",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.39/AniSol-2.0.39-win64.zip",
+    "sha256":  "6ffa964ff754131fc1128f41d0111a9ec6ff694f8d4825ad8644e8e27be04b1b",
+    "size":  84888581,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.39",
+    "notes":  "Related titles are drawn as a graph: seasons along a line, films and specials hanging off the season they belong to.",
     "requireAuthenticode":  false
 }
