@@ -1,10 +1,10 @@
 ﻿{
     "schema":  1,
-    "version":  "2.0.39",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.39/AniSol-2.0.39-win64.zip",
-    "sha256":  "6ffa964ff754131fc1128f41d0111a9ec6ff694f8d4825ad8644e8e27be04b1b",
-    "size":  84888581,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.39",
-    "notes":  "Related titles are drawn as a graph: seasons along a line, films and specials hanging off the season they belong to.",
+    "version":  "2.0.40",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.40/AniSol-2.0.40-win64.zip",
+    "sha256":  "dad4310a6b1a3e1a620ca34065e17d413baf3608f97696e33d4408e4904ec484",
+    "size":  84903571,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.40",
+    "notes":  "Long shows open a hundred episodes at a time, on the hundred you are up to, and no longer stall the page.",
     "requireAuthenticode":  false
 }
