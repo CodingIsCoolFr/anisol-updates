@@ -1,10 +1,10 @@
 ﻿{
     "schema":  1,
-    "version":  "2.0.40",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.40/AniSol-2.0.40-win64.zip",
-    "sha256":  "dad4310a6b1a3e1a620ca34065e17d413baf3608f97696e33d4408e4904ec484",
-    "size":  84903571,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.40",
-    "notes":  "Long shows open a hundred episodes at a time, on the hundred you are up to, and no longer stall the page.",
+    "version":  "2.0.41",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.41/AniSol-2.0.41-win64.zip",
+    "sha256":  "7b2a93fbcf618bf6ffe344d82720746a89e7afc3ca050e29446d59ae5221aaef",
+    "size":  84913821,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.41",
+    "notes":  "Long shows are split into their real seasons, and the Downloads globe turns again at a third of the old cost.",
     "requireAuthenticode":  false
 }
