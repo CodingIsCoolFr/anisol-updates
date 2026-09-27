@@ -1,10 +1,10 @@
 ﻿{
     "schema":  1,
-    "version":  "2.0.41",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.41/AniSol-2.0.41-win64.zip",
-    "sha256":  "7b2a93fbcf618bf6ffe344d82720746a89e7afc3ca050e29446d59ae5221aaef",
-    "size":  84913821,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.41",
-    "notes":  "Long shows are split into their real seasons, and the Downloads globe turns again at a third of the old cost.",
+    "version":  "2.0.42",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.42/AniSol-2.0.42-win64.zip",
+    "sha256":  "d4898e384a67336c2c1ec4ea8bf7a25c8f646cdfe41bf4eea5ef03e23ade8208",
+    "size":  84928987,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.42",
+    "notes":  "Seeder counts are asked of the trackers live, and the release list sorts by who is really seeding.",
     "requireAuthenticode":  false
 }
