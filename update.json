@@ -1,10 +1,10 @@
 ﻿{
     "schema":  1,
-    "version":  "2.0.44",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.44/AniSol-2.0.44-win64.zip",
-    "sha256":  "8477e80090868920d93551e9668aae19162ce0fb2f4bdffd6d3c8a4efce1beee",
-    "size":  84953217,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.44",
-    "notes":  "Season packs whose title names the episodes are shown again.",
+    "version":  "2.0.45",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.45/AniSol-2.0.45-win64.zip",
+    "sha256":  "fdb97e565f097581e0e33b904cc38af8350a862991542d182425d7e3abfb672b",
+    "size":  84953345,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.45",
+    "notes":  "Minimise, restore and close stay on the player while it is in a window.",
     "requireAuthenticode":  false
 }
