@@ -1,10 +1,10 @@
 ﻿{
     "schema":  1,
-    "version":  "2.0.42",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.42/AniSol-2.0.42-win64.zip",
-    "sha256":  "d4898e384a67336c2c1ec4ea8bf7a25c8f646cdfe41bf4eea5ef03e23ade8208",
-    "size":  84928987,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.42",
-    "notes":  "Seeder counts are asked of the trackers live, and the release list sorts by who is really seeding.",
+    "version":  "2.0.43",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.43/AniSol-2.0.43-win64.zip",
+    "sha256":  "e70e30d493ccd0aab1a97af570c432497a7026bfe44558a971f483e7aa4d85af",
+    "size":  84951886,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.43",
+    "notes":  "The release list appears in about a second, fills in as slower sources answer, and opens instantly the second time.",
     "requireAuthenticode":  false
 }
