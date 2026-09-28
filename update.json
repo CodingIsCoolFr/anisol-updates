@@ -1,10 +1,10 @@
 ﻿{
     "schema":  1,
-    "version":  "2.0.52",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.52/AniSol-2.0.52-win64.zip",
-    "sha256":  "35523ee69686387fe49e2501a442fe6fcbb03b246aeaa2e9ef1c1a3a7f689628",
-    "size":  84979563,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.52",
-    "notes":  "A release the list said was well seeded no longer sits on Paused forever.",
+    "version":  "2.0.53",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.53/AniSol-2.0.53-win64.zip",
+    "sha256":  "4ec4285c1b07d96a999631b044a8687a0b322656063d8799dacd5fde9e91e4bc",
+    "size":  84989344,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.53",
+    "notes":  "A finished remux no longer jumps through the episode.",
     "requireAuthenticode":  false
 }
