@@ -1,10 +1,10 @@
 ﻿{
     "schema":  1,
-    "version":  "2.0.46",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.46/AniSol-2.0.46-win64.zip",
-    "sha256":  "377b0659576d15bf054f413a909a3e2e71602709ee62d7a0ac2a6cd076fc680b",
-    "size":  84966563,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.46",
-    "notes":  "Skip opening uses the file\u0027s own OP/ED chapters, so it works on episodes the crowd never marked.",
+    "version":  "2.0.47",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.47/AniSol-2.0.47-win64.zip",
+    "sha256":  "c482b538f2e8d791f6f3b5b37f5bd18e7401411e1c2c8bd0779d8141d04ec8dc",
+    "size":  84967567,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.47",
+    "notes":  "Skip opening keeps playing instead of pausing on the same click.",
     "requireAuthenticode":  false
 }
