@@ -1,10 +1,10 @@
 ﻿{
     "schema":  1,
-    "version":  "2.0.48",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.48/AniSol-2.0.48-win64.zip",
-    "sha256":  "ae582205742e5c7138e0659e052df753374c893ce6942f48edc5902cfa22e50a",
-    "size":  84970642,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.48",
-    "notes":  "A finished episode plays smoothly instead of hitching on a memory-mapped file.",
+    "version":  "2.0.49",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.49/AniSol-2.0.49-win64.zip",
+    "sha256":  "44cff82fab584c4cf0dd306a251d96d81ef24415a50973f143e1eeb13af480f6",
+    "size":  84974043,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.49",
+    "notes":  "The episode you asked for is the first download, not the busiest season pack.",
     "requireAuthenticode":  false
 }
