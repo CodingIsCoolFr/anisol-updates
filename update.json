@@ -1,10 +1,10 @@
 ﻿{
     "schema":  1,
-    "version":  "2.0.56",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.56/AniSol-2.0.56-win64.zip",
-    "sha256":  "652286a3b4c26331f4cc3a09d660ea2d520e99cc48e69de23987c1c22ece627f",
-    "size":  85003058,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.56",
-    "notes":  "The light follows a moving camera instead of stepping.",
+    "version":  "2.0.57",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.57/AniSol-2.0.57-win64.zip",
+    "sha256":  "8d9ea0b33da9230e1794aef37908bac32299a2bc02fc21d530472b0703416b80",
+    "size":  85011852,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.57",
+    "notes":  "Ambient lighting has a Soft mode and a Scene mode.",
     "requireAuthenticode":  false
 }
