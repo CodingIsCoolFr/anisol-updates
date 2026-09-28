@@ -1,10 +1,10 @@
 ﻿{
     "schema":  1,
-    "version":  "2.0.49",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.49/AniSol-2.0.49-win64.zip",
-    "sha256":  "44cff82fab584c4cf0dd306a251d96d81ef24415a50973f143e1eeb13af480f6",
-    "size":  84974043,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.49",
-    "notes":  "The episode you asked for is the first download, not the busiest season pack.",
+    "version":  "2.0.50",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.50/AniSol-2.0.50-win64.zip",
+    "sha256":  "fc01efc9b95e2d36f3610599e860b1c5d136b55e95c8a4ca96c3f5f0df7f0397",
+    "size":  84977843,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.50",
+    "notes":  "The best download is a well seeded blu-ray, not a one-seeder file.",
     "requireAuthenticode":  false
 }
