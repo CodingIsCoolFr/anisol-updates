@@ -1,10 +1,10 @@
 ﻿{
     "schema":  1,
-    "version":  "2.0.53",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.53/AniSol-2.0.53-win64.zip",
-    "sha256":  "4ec4285c1b07d96a999631b044a8687a0b322656063d8799dacd5fde9e91e4bc",
-    "size":  84989344,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.53",
-    "notes":  "A finished remux no longer jumps through the episode.",
+    "version":  "2.0.54",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.54/AniSol-2.0.54-win64.zip",
+    "sha256":  "4f38b8e91fbbb870064a29d94f41ba93ef88899719fae81131f4043f81dd19f4",
+    "size":  85001544,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.54",
+    "notes":  "Ambient light fills the black bars baked into a widescreen file.",
     "requireAuthenticode":  false
 }
