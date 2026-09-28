@@ -1,10 +1,10 @@
 ﻿{
     "schema":  1,
-    "version":  "2.0.47",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.47/AniSol-2.0.47-win64.zip",
-    "sha256":  "c482b538f2e8d791f6f3b5b37f5bd18e7401411e1c2c8bd0779d8141d04ec8dc",
-    "size":  84967567,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.47",
-    "notes":  "Skip opening keeps playing instead of pausing on the same click.",
+    "version":  "2.0.48",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.48/AniSol-2.0.48-win64.zip",
+    "sha256":  "ae582205742e5c7138e0659e052df753374c893ce6942f48edc5902cfa22e50a",
+    "size":  84970642,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.48",
+    "notes":  "A finished episode plays smoothly instead of hitching on a memory-mapped file.",
     "requireAuthenticode":  false
 }
