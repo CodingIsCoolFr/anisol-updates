@@ -1,10 +1,10 @@
 ﻿{
     "schema":  1,
-    "version":  "2.0.50",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.50/AniSol-2.0.50-win64.zip",
-    "sha256":  "fc01efc9b95e2d36f3610599e860b1c5d136b55e95c8a4ca96c3f5f0df7f0397",
-    "size":  84977843,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.50",
-    "notes":  "The best download is a well seeded blu-ray, not a one-seeder file.",
+    "version":  "2.0.51",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.51/AniSol-2.0.51-win64.zip",
+    "sha256":  "58fb0747eec3c1546f6329de6aa73ffc0cbad92d01befc5326d6f97296bc201d",
+    "size":  84976918,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.51",
+    "notes":  "Playback waits for a real stretch of the file, and pauses instead of decoding a hole.",
     "requireAuthenticode":  false
 }
