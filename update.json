@@ -1,10 +1,10 @@
 ﻿{
     "schema":  1,
-    "version":  "2.0.59",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.59/AniSol-2.0.59-win64.zip",
-    "sha256":  "e8a7977d794aa905625b38ffaef664066dbd5d1b04f4025cbbc077cceefefea3",
-    "size":  85016942,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.59",
-    "notes":  "The light fills the black bars on the sides of a widescreen file.",
+    "version":  "2.0.60",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.60/AniSol-2.0.60-win64.zip",
+    "sha256":  "ff58be2171e597ff9807d49607ee23f9c809db4720c679068391898a5f075abd",
+    "size":  85020741,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.60",
+    "notes":  "AniList is asked less.",
     "requireAuthenticode":  false
 }
