@@ -1,10 +1,10 @@
 ﻿{
     "schema":  1,
-    "version":  "2.0.58",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.58/AniSol-2.0.58-win64.zip",
-    "sha256":  "4b448c27227cb78df366136c75a78bb3f89f1f2bbb8116ccebd76f306e250409",
-    "size":  85016674,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.58",
-    "notes":  "Scene mode eases into the colour of the shot instead of flashing.",
+    "version":  "2.0.59",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.59/AniSol-2.0.59-win64.zip",
+    "sha256":  "e8a7977d794aa905625b38ffaef664066dbd5d1b04f4025cbbc077cceefefea3",
+    "size":  85016942,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.59",
+    "notes":  "The light fills the black bars on the sides of a widescreen file.",
     "requireAuthenticode":  false
 }
