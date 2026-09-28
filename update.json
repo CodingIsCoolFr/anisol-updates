@@ -1,10 +1,10 @@
 ﻿{
     "schema":  1,
-    "version":  "2.0.57",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.57/AniSol-2.0.57-win64.zip",
-    "sha256":  "8d9ea0b33da9230e1794aef37908bac32299a2bc02fc21d530472b0703416b80",
-    "size":  85011852,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.57",
-    "notes":  "Ambient lighting has a Soft mode and a Scene mode.",
+    "version":  "2.0.58",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.58/AniSol-2.0.58-win64.zip",
+    "sha256":  "4b448c27227cb78df366136c75a78bb3f89f1f2bbb8116ccebd76f306e250409",
+    "size":  85016674,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.58",
+    "notes":  "Scene mode eases into the colour of the shot instead of flashing.",
     "requireAuthenticode":  false
 }
