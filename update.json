@@ -1,10 +1,10 @@
 ﻿{
     "schema":  1,
-    "version":  "2.0.61",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.61/AniSol-2.0.61-win64.zip",
-    "sha256":  "3cabf71280de0468dd52a58dca6e50f5992a3fa374ca82c052e8c94dffa1ea13",
-    "size":  85029804,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.61",
-    "notes":  "Resumed episodes start on their own again, and the ambient light keeps the black bars filled without zooming the picture in dark scenes.",
+    "version":  "2.0.62",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.62/AniSol-2.0.62-win64.zip",
+    "sha256":  "c2059e4afae448a250ba287646901137363fcba1c716f8347e29b86ce5c5891a",
+    "size":  85035043,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.62",
+    "notes":  "Films play, found by their name, and the Home background fills the window.",
     "requireAuthenticode":  false
 }
