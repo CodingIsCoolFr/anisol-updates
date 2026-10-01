@@ -1,10 +1,10 @@
 ﻿{
     "schema":  1,
-    "version":  "2.0.60",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.60/AniSol-2.0.60-win64.zip",
-    "sha256":  "ff58be2171e597ff9807d49607ee23f9c809db4720c679068391898a5f075abd",
-    "size":  85020741,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.60",
-    "notes":  "AniList is asked less.",
+    "version":  "2.0.61",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.61/AniSol-2.0.61-win64.zip",
+    "sha256":  "3cabf71280de0468dd52a58dca6e50f5992a3fa374ca82c052e8c94dffa1ea13",
+    "size":  85029804,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.61",
+    "notes":  "Resumed episodes start on their own again, and the ambient light keeps the black bars filled without zooming the picture in dark scenes.",
     "requireAuthenticode":  false
 }
