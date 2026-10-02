@@ -1,10 +1,10 @@
 ﻿{
     "schema":  1,
-    "version":  "2.0.62",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.62/AniSol-2.0.62-win64.zip",
-    "sha256":  "c2059e4afae448a250ba287646901137363fcba1c716f8347e29b86ce5c5891a",
-    "size":  85035043,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.62",
-    "notes":  "Films play, found by their name, and the Home background fills the window.",
+    "version":  "2.0.63",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.63/AniSol-2.0.63-win64.zip",
+    "sha256":  "09eda2aaf17e87f8cd0b79fd6df7c662aef77ff4e700af6a9af93d615dfa201c",
+    "size":  85040533,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.63",
+    "notes":  "Search answers again when AniList is busy, the title you typed comes first, and a year at the end of a search works.",
     "requireAuthenticode":  false
 }
