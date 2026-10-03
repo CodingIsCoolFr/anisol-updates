@@ -1,10 +1,10 @@
 ﻿{
     "schema":  1,
-    "version":  "2.0.63",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.63/AniSol-2.0.63-win64.zip",
-    "sha256":  "09eda2aaf17e87f8cd0b79fd6df7c662aef77ff4e700af6a9af93d615dfa201c",
-    "size":  85040533,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.63",
-    "notes":  "Search answers again when AniList is busy, the title you typed comes first, and a year at the end of a search works.",
+    "version":  "2.0.64",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.64/AniSol-2.0.64-win64.zip",
+    "sha256":  "f0a8e7af310d87697f32f8fd914602f13c2fe00936c0fa02bfd5c9e706cab3a8",
+    "size":  85042459,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.64",
+    "notes":  "Hover a Continue watching card and the X in the corner takes it off the shelf.",
     "requireAuthenticode":  false
 }
