@@ -1,10 +1,10 @@
 ﻿{
     "schema":  1,
-    "version":  "2.0.65",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.65/AniSol-2.0.65-win64.zip",
-    "sha256":  "528d1fba8f2db0c3435b2410faee42feefb0fcd851342121b6144b5091983f44",
-    "size":  85043288,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.65",
-    "notes":  "A related season opens as that season, and the release list shows as soon as a source has answered.",
+    "version":  "2.0.66",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.66/AniSol-2.0.66-win64.zip",
+    "sha256":  "9841b2e4293e942dd33547553b413fc4ec1081341b79707902005635961e66cc",
+    "size":  85047956,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.66",
+    "notes":  "A season already on screen opens straight away, and episodes are asked without waiting for AniList.",
     "requireAuthenticode":  false
 }
