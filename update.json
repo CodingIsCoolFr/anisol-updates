@@ -1,10 +1,10 @@
 ﻿{
     "schema":  1,
-    "version":  "2.0.64",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.64/AniSol-2.0.64-win64.zip",
-    "sha256":  "f0a8e7af310d87697f32f8fd914602f13c2fe00936c0fa02bfd5c9e706cab3a8",
-    "size":  85042459,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.64",
-    "notes":  "Hover a Continue watching card and the X in the corner takes it off the shelf.",
+    "version":  "2.0.65",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.65/AniSol-2.0.65-win64.zip",
+    "sha256":  "528d1fba8f2db0c3435b2410faee42feefb0fcd851342121b6144b5091983f44",
+    "size":  85043288,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.65",
+    "notes":  "A related season opens as that season, and the release list shows as soon as a source has answered.",
     "requireAuthenticode":  false
 }
