@@ -1,10 +1,10 @@
 ﻿{
     "schema":  1,
-    "version":  "2.0.67",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.67/AniSol-2.0.67-win64.zip",
-    "sha256":  "45ca52cf5961c902e099caa041af5d8f4cf02bdf46efaf1dad22ec788f45fcd4",
-    "size":  75280380,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.67",
-    "notes":  "An episode starts playing when it opens, including one resumed partway through. A frozen picture waits for data or starts again. Opening the next episode no longer treats the previous episode\u0027s clock as this one. A still mouse fades with the title and the controls.",
+    "version":  "2.0.68",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.68/AniSol-2.0.68-win64.zip",
+    "sha256":  "c9c3d1e4d5efbbb6211e59367a6591311ad400bba89076cb3dba0a13d3ce46d8",
+    "size":  75282086,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.68",
+    "notes":  "Back no longer sits on top of the episode title. The release list says the episode you asked for, not Episode 0.",
     "requireAuthenticode":  false
 }
