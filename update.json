@@ -1,10 +1,10 @@
 ﻿{
     "schema":  1,
-    "version":  "2.0.66",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.66/AniSol-2.0.66-win64.zip",
-    "sha256":  "9841b2e4293e942dd33547553b413fc4ec1081341b79707902005635961e66cc",
-    "size":  85047956,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.66",
-    "notes":  "A season already on screen opens straight away, and episodes are asked without waiting for AniList.",
+    "version":  "2.0.67",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.67/AniSol-2.0.67-win64.zip",
+    "sha256":  "45ca52cf5961c902e099caa041af5d8f4cf02bdf46efaf1dad22ec788f45fcd4",
+    "size":  75280380,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.67",
+    "notes":  "An episode starts playing when it opens, including one resumed partway through. A frozen picture waits for data or starts again. Opening the next episode no longer treats the previous episode\u0027s clock as this one. A still mouse fades with the title and the controls.",
     "requireAuthenticode":  false
 }
