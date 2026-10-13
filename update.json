@@ -1,10 +1,10 @@
 ﻿{
     "schema":  1,
-    "version":  "2.0.69",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.69/AniSol-2.0.69-win64.zip",
-    "sha256":  "abf54c84125a5f48571fb9d83bf2e6d1f5154d3e45331f7c82565d9312df25a5",
-    "size":  75281996,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.69",
-    "notes":  "An episode opens again. The player was waiting on a probe setting this build of Qt does not have, so the file downloaded and the picture never started.",
+    "version":  "2.0.70",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.70/AniSol-2.0.70-win64.zip",
+    "sha256":  "3c006392fc2fdbc35984a89aa860204c93511152e078ff52bb254202e236732d",
+    "size":  75284836,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.70",
+    "notes":  "Check for updates reads the feed itself, not a cached copy. Automatic updates actually check.",
     "requireAuthenticode":  false
 }
