@@ -1,10 +1,10 @@
 ﻿{
     "schema":  1,
-    "version":  "2.0.68",
-    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.68/AniSol-2.0.68-win64.zip",
-    "sha256":  "c9c3d1e4d5efbbb6211e59367a6591311ad400bba89076cb3dba0a13d3ce46d8",
-    "size":  75282086,
-    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.68",
-    "notes":  "Back no longer sits on top of the episode title. The release list says the episode you asked for, not Episode 0.",
+    "version":  "2.0.69",
+    "packageUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/download/v2.0.69/AniSol-2.0.69-win64.zip",
+    "sha256":  "abf54c84125a5f48571fb9d83bf2e6d1f5154d3e45331f7c82565d9312df25a5",
+    "size":  75281996,
+    "releaseUrl":  "https://github.com/CodingIsCoolFr/anisol-updates/releases/tag/v2.0.69",
+    "notes":  "An episode opens again. The player was waiting on a probe setting this build of Qt does not have, so the file downloaded and the picture never started.",
     "requireAuthenticode":  false
 }
